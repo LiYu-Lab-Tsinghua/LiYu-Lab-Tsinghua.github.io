@@ -1,5 +1,5 @@
 ---
-title: "Observe migrasome via EM Observe migrasome via EM Observe migrasome via EM Observe migrasome via EM "
+title: "Sample preparation of migrasome for electron microscopy"
 excerpt: "Sample preparation of migrasome for electron microscopy"
 collection: protocols
 ---
