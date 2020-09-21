@@ -204,13 +204,17 @@ Antigen presentation via migracytosis
 
 <br>
 
+<div style="clear: both;" align="left">
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Minghui%20Shi.jpg" width="200" alt="Minghui Shi" align=right hspace="50" vspace="20"/>
+</div>
+
 ## Minghui Shi &nbsp;&nbsp; 史明慧
 
 ### Research interests
 
 Migrasome biology of NK cell
 
-<br>
+<br><br><br><br><br>
 
 ## Mingyi Gao &nbsp;&nbsp; 高明一
 
