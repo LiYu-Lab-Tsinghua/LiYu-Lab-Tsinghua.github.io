@@ -7,7 +7,37 @@ redirect_from:
   - /resume
 ---
 
-<br>
+<div id="banner">
+  <div class="bannerTitle">
+    <a href="#PI">PI</a>
+  </div>
+  <div class="bannerTitle">
+    <a href="#Postdoc">Postdoc</a>
+  </div>
+  <div class="bannerTitle">
+    <a href="#PhD">Ph. D. Student</a>
+  </div>
+  <div class="bannerTitle">
+    <a href="#RA">Research Assistant</a>
+  </div>
+  <div class="bannerTitle">
+    <a href="#VS">Visiting Scholar</a>
+  </div>
+  <div class="bannerTitle">
+    <a href="#Alumni">Alumni</a>
+  </div>
+  <div class="bannerTitle">
+    <a href="#LM">Lab Manager</a>
+  </div>
+  <div class="bannerTitle">
+    <a href="#Rotating">Rotating Ph. D. Student</a>
+  </div>
+  <div class="bannerTitle">
+    <a href="#Undergraduate">Undergraduate Student</a>
+  </div>
+</div>
+
+<h2 id="PI"></h2>
 
 PI
 =====
@@ -41,7 +71,7 @@ liyulab@tsinghua.edu.cn
 
 ---
 
-<br>
+<h2 id="Postdoc"></h2>
 
 Postdoc
 =====
@@ -119,7 +149,7 @@ huangyuwei@mail.tsinghua.edu.cn
 
 ---
 
-<br>
+<h2 id="PhD"></h2>
 
 Ph. D. Student
 =====
@@ -273,7 +303,7 @@ yh-liu16@outlook.com
 
 ---
 
-<br>
+<h2 id="RA"></h2>
 
 Research Assistant
 =====
@@ -327,7 +357,7 @@ mlzhu135@163.com
 
 ---
 
-<br>
+<h2 id="VS"></h2>
 
 Visiting Scholar
 =====
@@ -352,7 +382,7 @@ sysuccjl@163.com
 
 ---
 
-<br>
+<h2 id="Alumni"></h2>
 
 Alumni
 =====
@@ -516,7 +546,7 @@ danniwu1224@163.com
 
 ---
 
-<br>
+<h2 id="LM"></h2>
 
 Lab Manager
 =====
@@ -527,7 +557,7 @@ Lab Manager
 
 ---
 
-<br>
+<h2 id="Rotating"></h2>
 
 Rotating Ph. D. Student
 =====
@@ -554,7 +584,7 @@ zwk20@mails.tsinghua.edu.cn
 
 ---
 
-<br>
+<h2 id="Undergraduate"></h2>
 
 Undergraduate Student
 =====
