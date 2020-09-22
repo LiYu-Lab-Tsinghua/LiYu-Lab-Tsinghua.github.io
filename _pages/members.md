@@ -14,7 +14,7 @@ redirect_from:
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
           <li class="masthead__menu-item"><a href="#PI">PI</a></li>
-          <li class="masthead__menu-item"><a href="#Postdoc">PostDoc</a></li>
+          <li class="masthead__menu-item"><a href="#Postdoc">Post Doc</a></li>
           <li class="masthead__menu-item"><a href="#PhD">Ph. D. Student</a></li>
           <li class="masthead__menu-item"><a href="#RA">Research Assistant</a></li>
           <li class="masthead__menu-item"><a href="#VS">Visiting Scholar</a></li>
