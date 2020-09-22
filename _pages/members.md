@@ -9,30 +9,14 @@ redirect_from:
 
 <div id="banner">
   <div class="bannerTitle">
-    <a href="#PI">PI</a>
-  </div>
-  <div class="bannerTitle">
-    <a href="#Postdoc">Postdoc</a>
-  </div>
-  <div class="bannerTitle">
-    <a href="#PhD">Ph. D. Student</a>
-  </div>
-  <div class="bannerTitle">
-    <a href="#RA">Research Assistant</a>
-  </div>
-  <div class="bannerTitle">
-    <a href="#VS">Visiting Scholar</a>
-  </div>
-  <div class="bannerTitle">
-    <a href="#Alumni">Alumni</a>
-  </div>
-  <div class="bannerTitle">
-    <a href="#LM">Lab Manager</a>
-  </div>
-  <div class="bannerTitle">
-    <a href="#Rotating">Rotating Ph. D. Student</a>
-  </div>
-  <div class="bannerTitle">
+    <a href="#PI">PI</a></br>
+    <a href="#Postdoc">Postdoc</a></br>
+    <a href="#PhD">Ph. D. Student</a></br>
+    <a href="#RA">Research Assistant</a></br>
+    <a href="#VS">Visiting Scholar</a></br>
+    <a href="#Alumni">Alumni</a></br>
+    <a href="#LM">Lab Manager</a></br>
+    <a href="#Rotating">Rotating Ph. D. Student</a></br>
     <a href="#Undergraduate">Undergraduate Student</a>
   </div>
 </div>
