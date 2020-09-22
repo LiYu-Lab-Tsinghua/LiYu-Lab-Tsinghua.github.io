@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-<div class="masthead">
-  <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
+<div class="masthead1">
+  <div class="masthead__inner-wrap1">
+    <div class="masthead__menu1">
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
