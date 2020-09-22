@@ -9,14 +9,14 @@ redirect_from:
 
 <div id="banner">
   <div class="bannerTitle">
-    <a href="#PI">PI</a></br>
-    <a href="#Postdoc">Postdoc</a></br>
-    <a href="#PhD">Ph. D. Student</a></br>
-    <a href="#RA">Research Assistant</a></br>
-    <a href="#VS">Visiting Scholar</a></br>
-    <a href="#Alumni">Alumni</a></br>
-    <a href="#LM">Lab Manager</a></br>
-    <a href="#Rotating">Rotating Ph. D. Student</a></br>
+    <a href="#PI">PI &emsp;</a>
+    <a href="#Postdoc">Postdoc &emsp;</a>
+    <a href="#PhD">Ph. D. Student &emsp;</a>
+    <a href="#RA">Research Assistant &emsp;</a>
+    <a href="#VS">Visiting Scholar &emsp;</a>
+    <a href="#Alumni">Alumni &emsp;</a>
+    <a href="#LM">Lab Manager &emsp;</a>
+    <a href="#Rotating">Rotating Ph. D. Student &emsp;</a>
     <a href="#Undergraduate">Undergraduate Student</a>
   </div>
 </div>
