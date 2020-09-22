@@ -9,7 +9,7 @@ redirect_from:
 
 <div id="banner">
   <div class="bannerTitle">
-    <a href="#PI">PI &emsp;</a>
+    <a href="#PI">PI</a> &emsp;
     <a href="#Postdoc">Postdoc &emsp;</a>
     <a href="#PhD">Ph. D. Student &emsp;</a>
     <a href="#RA">Research Assistant &emsp;</a>
