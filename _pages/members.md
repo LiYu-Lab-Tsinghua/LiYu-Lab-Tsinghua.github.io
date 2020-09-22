@@ -17,7 +17,7 @@ redirect_from:
           <li class="masthead__menu-item"><a href="#Postdoc">Postdoc</a></li>
           <li class="masthead__menu-item"><a href="#PhD">Ph. D. Student</a></li>
           <li class="masthead__menu-item"><a href="#RA">Research Assistant</a></li>
-          <li class="masthead__menu-item"><a href="#VS">Visiting Scholar</a></li>
+          <li class="masthead__menu-item"><a href="#VS">Visiting Scholar</a></li> &emsp;
           <li class="masthead__menu-item"><a href="#Alumni">Alumni</a></li>
           <li class="masthead__menu-item"><a href="#LM">Lab Manager</a></li>
           <li class="masthead__menu-item"><a href="#Rotating">Rotating Ph. D. Student</a></li>
@@ -26,20 +26,6 @@ redirect_from:
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
-  </div>
-</div>
-
-<div id="banner">
-  <div class="bannerTitle">
-    <a href="#PI">PI</a> &emsp;
-    <a href="#Postdoc">Postdoc</a> &emsp;
-    <a href="#PhD">Ph. D. Student</a> &emsp;
-    <a href="#RA">Research Assistant</a> &emsp;
-    <a href="#VS">Visiting Scholar</a> &emsp;
-    <a href="#Alumni">Alumni</a> &emsp;
-    <a href="#LM">Lab Manager</a> &emsp;
-    <a href="#Rotating">Rotating Ph. D. Student</a> &emsp;
-    <a href="#Undergraduate">Undergraduate Student</a> &emsp;
   </div>
 </div>
 

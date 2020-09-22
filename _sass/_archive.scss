@@ -244,17 +244,6 @@
   }
 }
 
-#banner{
-  position: fixed;
-  bottom: 5px;
-  background-color: white;
-  border: 5px solid cadetblue;
-}
-
-.bannerTitle{
-  position:relative;
-}
-
 /* ==========================================================================
    MASTHEAD
    ========================================================================== */
@@ -267,6 +256,8 @@
     -webkit-animation-delay: 0.15s;
             animation-delay: 0.15s;
     z-index: 20;
+    bottom: 0px;
+    position: fixed;
   
     &__inner-wrap {
       @include container;
