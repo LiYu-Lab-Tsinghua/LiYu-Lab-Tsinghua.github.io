@@ -17,7 +17,7 @@ redirect_from:
           <li class="masthead__menu-item"><a href="#Postdoc">Postdoc</a></li>
           <li class="masthead__menu-item"><a href="#PhD">Ph. D. Student</a></li>
           <li class="masthead__menu-item"><a href="#RA">Research Assistant</a></li>
-          <li class="masthead__menu-item"><a href="#VS">Visiting Scholar</a></li> &#10;
+          <li class="masthead__menu-item"><a href="#VS">Visiting Scholar</a></li> </br>
           <li class="masthead__menu-item"><a href="#Alumni">Alumni</a></li>
           <li class="masthead__menu-item"><a href="#LM">Lab Manager</a></li>
           <li class="masthead__menu-item"><a href="#Rotating">Rotating Ph. D. Student</a></li>
