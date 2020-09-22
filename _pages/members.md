@@ -2,7 +2,7 @@
 layout: archive
 title: "Lab Members"
 permalink: /members/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
