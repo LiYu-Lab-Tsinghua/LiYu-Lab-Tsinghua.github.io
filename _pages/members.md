@@ -7,6 +7,28 @@ redirect_from:
   - /resume
 ---
 
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <button><div class="navicon"></div></button>
+        <ul class="visible-links">
+          <li class="masthead__menu-item"><a href="#PI">PI</a></li>
+          <li class="masthead__menu-item"><a href="#Postdoc">Postdoc</a></li>
+          <li class="masthead__menu-item"><a href="#PhD">Ph. D. Student</a></li>
+          <li class="masthead__menu-item"><a href="#RA">Research Assistant</a></li>
+          <li class="masthead__menu-item"><a href="#VS">Visiting Scholar</a></li>
+          <li class="masthead__menu-item"><a href="#Alumni">Alumni</a></li>
+          <li class="masthead__menu-item"><a href="#LM">Lab Manager</a></li>
+          <li class="masthead__menu-item"><a href="#Rotating">Rotating Ph. D. Student</a></li>
+          <li class="masthead__menu-item"><a href="#Undergraduate">Undergraduate Student</a></li>
+        </ul>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
 <div id="banner">
   <div class="bannerTitle">
     <a href="#PI">PI</a> &emsp;
