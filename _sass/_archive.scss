@@ -245,9 +245,12 @@
 }
 
 #banner{
-  width: 49.625rem;
-  height: 2.5rem;
-  border: 2px solid black
+  width:140px;
+  height:270px;
+  margin-top:50px;
+  position:fixed;    
+  right:0px;
+  top:150px; 
 }
 
 .bannerTitle{
