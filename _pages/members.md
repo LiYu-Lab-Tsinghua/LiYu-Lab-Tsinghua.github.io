@@ -334,6 +334,14 @@ mlzhu135@163.com
 
 <br>
 
+## Fang Xu &nbsp;&nbsp; 徐 芳
+
+### Research interests
+
+ER whorl
+
+<br>
+
 <div style="clear: both;" align="left">
 <img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Shuyao%20Yin.jpg" width="200" alt="Shuyao Yin" align=right hspace="50" vspace="30"/>
 </div>
@@ -541,14 +549,6 @@ danniwu1224@163.com
 ## Xiaoxin Zhao &nbsp;&nbsp; 赵晓鑫
 
 #### Teacher in The High School Affiliated to Renmin University of China
-
-<br>
-
-## Fang Xu &nbsp;&nbsp; 徐 芳
-
-### Research interests
-
-ER whorl
 
 <br>
 
