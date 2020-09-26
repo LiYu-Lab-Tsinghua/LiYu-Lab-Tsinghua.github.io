@@ -381,7 +381,7 @@ Alumni
 
 ## Yueguang Rong &nbsp;&nbsp; 荣岳光
 
-#### PI in Tongji Medical College, Huazhong University of Science & Technology
+#### PI in School of Basic Medicine, Tongji Medical College, Huazhong University of Science & Technology
 
 <br>
 
@@ -393,13 +393,13 @@ Alumni
 
 ## Cong Yi &nbsp;&nbsp; 易 聪
 
-#### PI in Zhejiang University
+#### PI in Zhejiang University School of Medicine
 
 <br>
 
 ## Yanyang Wu &nbsp;&nbsp; 吴艳阳
 
-#### PI in Hunan Agricultural University
+#### PI in College of Food Science and Technology, Hunan Agricultural University
 
 <br>
 
@@ -427,27 +427,61 @@ chenyang1816185048@bjmu.edu.cn
 
 <br>
 
-## Jingjing Tong &nbsp;&nbsp; 仝晶晶
+## Zhilei Cui &nbsp;&nbsp; 崔智磊
 
-#### Associate Professor in Central China Normal University
+<br>
+
+## Chong Wang &nbsp;&nbsp; 王 冲
+
+#### Director of Fujian Nanping Natural Resources Administration
 
 <br>
 
 ## Jing Zhu &nbsp;&nbsp; 朱 婧
 
-#### Research Assistant in ZhiPing Xie ( 谢志平 ) Lab, Shanghai Jiao Tong University
+#### Research Assistant in ZhiPing Xie ( 谢志平 ) Lab, School of Life Sciences and Biotechnology,Shanghai Jiao Tong University
+
+<br>
+
+## Yufang Sun &nbsp;&nbsp; 孙玉芬
+
+<br>
+
+## Mei Liu &nbsp;&nbsp; 刘 梅
+
+#### Section Chief of Guangxi Nanning Science and Technology Administration
 
 <br>
 
 ## Wenzhi Feng &nbsp;&nbsp; 冯文之
 
-#### Postdoc
+#### Postdoc in UT Southwestern
+
+<br>
+
+## Jingxiang Zheng &nbsp;&nbsp; 郑竞翔
+
+#### WuXi AppTec
+
+<br>
+
+## Jingjing Tong &nbsp;&nbsp; 仝晶晶
+
+#### Associate Professor in School of Life Sciences, Central China Normal University
+
+<br>
+
+## Yan Le &nbsp;&nbsp; 乐 雁
 
 <br>
 
 ## Liang Ma &nbsp;&nbsp; 马 亮
 
-#### Postdoc in Randy Schekman Lab
+#### Postdoc in Randy Schekman Lab, UCB
+
+<br>
+
+## Meisheng Ma &nbsp;&nbsp; 马梅生
 
 <br>
 
@@ -478,41 +512,13 @@ dsun@mpi-cbg.de
 
 <br>
 
-## Fang Xu &nbsp;&nbsp; 徐 芳
-
-### Research interests
-
-ER whorl
-
-<br>
-
-## Puzhong Lu &nbsp;&nbsp; 卢普忠
-
-### Research interests
-
-Chemical screening of proteins affecting migrasome formation
-
-<br>
-
-## Jingxiang Zheng &nbsp;&nbsp; 郑竞翔
-
-#### WuXi AppTec
-
-<br>
-
-## Chong Wang &nbsp;&nbsp; 王 冲
-
-#### Director of Fujian Nanping Natural Resources Administration
-
-<br>
-
 <div style="clear: both;" align="left">
 <img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Danni%20Wu.jpg" width="200" alt="Daxiao Sun" align=right hspace="50" vspace="40"/>
 </div>
 
 ## Danni Wu &nbsp;&nbsp; 伍丹妮
 
-#### Civil Servant in Chongqing
+#### Section Chief of Chongqing Science and Technology Bureau 
 
 ### E-mail
 
@@ -520,9 +526,15 @@ danniwu1224@163.com
 
 <br>
 
-## Mei Liu &nbsp;&nbsp; 刘 梅
+## Yitong Cui &nbsp;&nbsp; 崔依同
 
-#### Civil Servant in Guangxi
+#### NTD IP ATTORNEYS 
+
+<br>
+
+## Puzhong Lu &nbsp;&nbsp; 卢普忠
+
+####  Civil Servant of Section Chief rank in Xinyang, Henan
 
 <br>
 
@@ -532,7 +544,11 @@ danniwu1224@163.com
 
 <br>
 
-## Meisheng Ma &nbsp;&nbsp; 马梅生
+## Fang Xu &nbsp;&nbsp; 徐 芳
+
+### Research interests
+
+ER whorl
 
 <br>
 
