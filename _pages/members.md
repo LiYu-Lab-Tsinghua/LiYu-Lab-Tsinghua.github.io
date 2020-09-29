@@ -20,7 +20,6 @@ redirect_from:
           <li class="masthead__menu-item"><a href="#VS">Visiting Scholar</a></li>
           <li class="masthead__menu-item"><a href="#Alumni">Alumni</a></li>
           <li class="masthead__menu-item"><a href="#LM">Manager</a></li>
-          <li class="masthead__menu-item"><a href="#Rotating">Rotating Student</a></li>
           <li class="masthead__menu-item"><a href="#Undergraduate">Undergraduate</a></li>
         </ul>
         <ul class="hidden-links hidden"></ul>
@@ -75,10 +74,6 @@ Postdoc
 
 #### Pay attention, young man (╬￣皿￣).jpg
 
-### Research interests
-
-Novel transcription factor modulating unfolded protein response (UPR)
-
 <br>
 <br>
 
@@ -88,24 +83,13 @@ Novel transcription factor modulating unfolded protein response (UPR)
 
 ## Wanqing Du &nbsp;&nbsp; 杜万清
 
-### Research interests
-
-1. ER whorl
-2. whole genome screening about migrasome formation
-
 <br>
 
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Yuwei%20Huang.jpg" width="200" alt="Yuwei Huang" align=right hspace="50" vspace="50"/>
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Yuwei%20Huang.jpg" width="200" alt="Yuwei Huang" align=right hspace="50" vspace="40"/>
 </div>
 
 ## Yuwei Huang &nbsp;&nbsp; 黄雨薇
-
-### Research interests
-
-1. mechanism of migrasome formation
-2. membrane biology
-3. mechanobiology
 
 ### E-mail
 
@@ -115,14 +99,6 @@ huangyuwei@mail.tsinghua.edu.cn
 
 ## Dong Jiang &nbsp;&nbsp; 姜 东
 
-### Research Interests
-
-1. migrasome-carried signals for correct zebrafish embryogenesis
-2. roles of migrasome in tumor metastasis
-3. biomarker of migracytosis in peripheral blood
-4. intravital imaging
-5. migrasome and atherosclerosis
-
 <br>
 
 <div style="clear: both;" align="left">
@@ -131,13 +107,7 @@ huangyuwei@mail.tsinghua.edu.cn
 
 ## Jinqiang Yu &nbsp;&nbsp; 俞金强
 
-### Research interests
-
-1. migrasome biology of *Dictyostelium discoideum*
-2. membranous charge and migrasome formation
-3. migrasome biology of *Trichoplax adhaerens*
-
-<br>
+<br><br><br><br><br><br><br>
 
 ---
 
@@ -148,77 +118,43 @@ Ph. D. Student
 
 ## Tianlun Ding &nbsp;&nbsp; 丁天伦
 
-### Research interests
-
-1. phospholipids and their binding proteins involved in migrasome formation and stability
-2. Honor of Kings &nbsp; ≧▽≦
-
 <br>
 
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Haisha%20Liang.jpg" width="200" alt="Haisha Liang" align=right hspace="50" vspace="40"/>
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Haisha%20Liang.jpg" width="200" alt="Haisha Liang" align=right hspace="50" vspace="30"/>
 </div>
 
 ## Haisha Liang &nbsp;&nbsp; 梁海莎
 
-### Research interests
-
-1. lipids contributing to migrasome formation and stability
-2. cargo secretion via migracytosis
-
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Dongju%20Wang.jpg" width="200" alt="Dongju Wang" align=right hspace="50" vspace="60"/>
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Dongju%20Wang.jpg" width="200" alt="Dongju Wang" align=right hspace="50" vspace="30"/>
 </div>
 
 ## Dongju Wang &nbsp;&nbsp; 王东锔
 
-### Research interests
-
-1. membrane biophysics of tetraspanin family
-2. low osmotic pressure-induced vesicles
-3. neoantigen delivery via cell-derived vesicles
-
 <br>
 
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Yizheng%20Wang.jpg" width="200" alt="Dongju Wang" align=right hspace="50" vspace="20"/>
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Yizheng%20Wang.jpg" width="200" alt="Yizheng Wang" align=right hspace="50" vspace="20"/>
 </div>
 
 ## Yizheng Wang &nbsp;&nbsp; 王懿峥
 
-### Research interests
-
-Type II migrasome
-
 <br><br><br><br><br><br><br>
 
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Di%20Lu.jpg" width="200" alt="Di Lu" align=right hspace="50" vspace="40"/>
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Di%20Lu.jpg" width="200" alt="Di Lu" align=right hspace="50" vspace="30"/>
 </div>
 
 ## Di Lu &nbsp;&nbsp; 陆 娣
 
-### Research interests
-
-1. combinatory signals packaged into migrasomes during zebrafish embryogenesis
-2. progeria and ERphagy
-3. ER quality control and migracytosis
-
-<br>
+<br><br><br><br>
 
 ## Yiqun Luo &nbsp;&nbsp; 罗逸群
-
-### Research interests
-
-Difference between apoptotic body and migrasome
 
 <br>
 
 ## Xuan Wang &nbsp;&nbsp; 王 暄
-
-### Research interests
-
-Antigen presentation via migracytosis
 
 <br>
 
@@ -232,17 +168,9 @@ Antigen presentation via migracytosis
 
 ## Minghui Shi &nbsp;&nbsp; 史明慧
 
-### Research interests
-
-Migrasome biology of NK cell
-
-<br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ## Mingyi Gao &nbsp;&nbsp; 高明一
-
-### Research interests
-
-Imaging of immunocyte migracytosis
 
 <br>
 
@@ -252,21 +180,13 @@ Imaging of immunocyte migracytosis
 
 ## Yuhan Xiang &nbsp;&nbsp; 项雨涵
 
-### Research interests
-
-Kinase regulating migrasome formation
-
 ### E-mail
 
 xyh19@mails.tsinghua.edu.cn
 
-<br><br>
+<br><br><br><br><br><br>
 
 ## Takami Shū &nbsp;&nbsp; 鐘丘実 
-
-### Research interests
-
-Relationship between lysosome quality control and migracytosis
 
 <br>
 
@@ -275,23 +195,16 @@ Relationship between lysosome quality control and migracytosis
 <br>
 
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Yuheng%20Liu.jpg" width="200" alt="Yuheng Liu" align=right hspace="50" vspace="60"/>
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Yuheng%20Liu.jpg" width="200" alt="Yuheng Liu" align=right hspace="50" vspace="20"/>
 </div>
 
 ## Yuheng Liu &nbsp;&nbsp; 刘宇恒
-
-### Research interests
-
-1. in vivo gene lateral transfer via migracytosis
-2. mechanisms underlying RNA transport from cell body to migrasome
-3. spatial navigation through migrasomes
-4. bioinformatics
 
 ### E-mail
 
 yh-liu16@outlook.com
 
-<br>
+<br><br><br><br>
 
 ---
 
@@ -302,43 +215,25 @@ Research Assistant
 
 ## Ying Li &nbsp;&nbsp; 李 英
 
-### Research interests
-
-Sample preparation for electron microscopy
-
 <br>
 
 ## Cuifang Zhang &nbsp;&nbsp; 张翠芳
 
-### Research interests
-
-1. migrasome biology of chicken
-2. angiogenesis and neutrophil migracytosis during chicken embryogenesis
-
 <br>
 
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Mingli%20Zhu.jpg" width="200" alt="Mingli Zhu" align=right hspace="50" vspace="40"/>
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Mingli%20Zhu.jpg" width="200" alt="Mingli Zhu" align=right hspace="50" vspace="30"/>
 </div>
 
 ## Mingli Zhu &nbsp;&nbsp; 祝明莉
-
-### Research interests
-
-1. RNA transfer via migracytosis
-2. local translation in migrasomes
 
 ### E-mail
 
 mlzhu135@163.com
 
-<br>
+<br><br>
 
 ## Fang Xu &nbsp;&nbsp; 徐 芳
-
-### Research interests
-
-ER whorl
 
 <br>
 
@@ -348,12 +243,7 @@ ER whorl
 
 ## Shuyao Yin &nbsp;&nbsp; 殷舒瑶
 
-### Research interests
-
-1. migrasome biology of chicken
-2. angiogenesis and neutrophil migracytosis during chicken embryogenesis
-
-<br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 ---
 
@@ -362,23 +252,18 @@ ER whorl
 Visiting Scholar
 =====
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Lin%20Jiao.jpg" width="200" alt="Lin Jiao" align=right hspace="50" vspace="30"/>
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Lin%20Jiao.jpg" width="200" alt="Lin Jiao" align=right hspace="50" vspace="20"/>
 </div>
 
 ## Lin Jiao &nbsp;&nbsp; 焦 琳
 
 #### Postdoc from Department of Laboratory Medicine, Sichuan University West China Hospital 
 
-### Research interests
-
-1. EGFR and migrasome formation
-2. clinical diagnosis through migrasome-related biomarkers
-
 ### E-mail
 
 sysuccjl@163.com
 
-<br>
+<br><br>
 
 ---
 
@@ -475,7 +360,7 @@ chenyang1816185048@bjmu.edu.cn
 
 ## Jingjing Tong &nbsp;&nbsp; 仝晶晶
 
-#### Associate Professor in School of Life Sciences, Central China Normal University
+#### PI in School of Life Sciences, Central China Normal University
 
 <br>
 
@@ -566,33 +451,6 @@ Lab Manager
 ## Ting Peng &nbsp;&nbsp; 彭 婷
 
 <br>
-
----
-
-<h2 id="Rotating"></h2>
-
-Rotating Ph. D. Student
-=====
-
-## Jing Sun &nbsp;&nbsp; 孙 婧
-
-<br>
-
-<div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Wenkang%20Zhao.jpg" width="200" alt="Wenkang Zhao" align=right hspace="50" vspace="30"/>
-</div>
-
-## Wenkang Zhao &nbsp;&nbsp; 赵文康
-
-### Research interests
-
-Whole genome screening about migrasome formation 
-
-### E-mail
-
-zwk20@mails.tsinghua.edu.cn
-
-<br><br>
 
 ---
 
