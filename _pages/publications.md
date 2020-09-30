@@ -6,6 +6,10 @@ author_profile: true
 ---
 <br>
 
+1. Zhu, M., Zou, Q., Huang, R. et al. Lateral transfer of mRNA and protein by migrasomes modifies the recipient cells. Cell Res (2020). https://doi.org/10.1038/s41422-020-00415-3 [ [PDF](https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/publications/Lateral%20transfer%20of%20mRNA%20and%20protein%20by%20migrasomes%20modifies%20the%20recipient%20cells.pdf) ]
+
+2. Xu, F., Du, W., Zou, Q. et al. COPII mitigates ER stress by promoting formation of ER whorls. Cell Res (2020). https://doi.org/10.1038/s41422-020-00416-2 [ [PDF](https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/publications/COPII%20mitigates%20ER%20stress%20by%20promoting%20formation%20of%20ER%20whorls.pdf) ]
+
 1. Migrasomes provide regional cues for organ morphogenesis during zebrafish gastrulation.Jiang D, Jiang Z, Lu D, Wang X, Liang H, Zhang J, Meng Y, Li Y, Wu D, Huang Y, Chen Y, Deng H, Wu Q, Xiong J, Meng A, Yu L.Nat Cell Biol. 2019 Aug;21(8):966-977. [ [PDF](https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/publications/Migrasomes%20provide%20regional%20cues%20for%20organ%20morphogenesis%20during%20zebrafish%20gastrulation.pdf) ]
 
 2. Migrasome formation is mediated by assembly of micron-scale tetraspanin macrodomains. Huang Y, Zucker B, Zhang S, Elias S, Zhu Y, Chen H, Ding T, Li Y, Sun Y, Lou J, Kozlov MM, Yu L.Nat Cell Biol. 2019 Aug;21(8):991-1002. [ [PDF](https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/publications/Migrasome%20formation%20is%20mediated%20by%20assembly%20of%20micron-scale%20tetraspanin%20macrodomains.pdf) ]
