@@ -154,9 +154,13 @@ Ph. D. Students
 
 <br>
 
+<div style="clear: both;" align="left">
+<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Xuan%20Wang.jpg" width="200" alt="Xuan Wang" align=right hspace="50" vspace="30"/>
+</div>
+
 ## Xuan Wang &nbsp;&nbsp; 王 暄
 
-<br>
+<br><br><br><br>
 
 ## Yiyang Han &nbsp;&nbsp; 韩依杨
 
