@@ -18,7 +18,7 @@ We are mainly dedicated to the study of the mechanism and function of migrasomes
 >3. Pathophysiological function and mechanism of migrasomes in oncogenesis and other diseases
 >4. Function and mechanism of migrasomes in neurodevelopment and neuroregulation
 >5. Function and mechanism of migrasomes in maintaining cellular homeostasis
->6. Novel mechanism of migrasomes in coordinating communication between cells and regulating signal transmission.
+>6. Novel mechanism of migrasomes in coordinating communication between cells and regulating signal transmission
 
 Our laboratory has a stimulating and creative scientific research environment and atmosphere, and provides stable funding. Researchers who are interested in studying migrasome biology are welcome to join.
 
