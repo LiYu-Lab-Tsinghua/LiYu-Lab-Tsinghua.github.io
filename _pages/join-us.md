@@ -33,16 +33,16 @@ Our laboratory has a stimulating and creative scientific research environment an
 >2. Those with relevant research experience in neurobiology, immunology, developmental biology, cell biology, etc. are preferred
 >3. Applicants must have a strong interest in scientific research, work hard, be honest, have a sense of responsibility, have good communication and coordination skills and teamwork spirit
 >4. Applicants must have the ability to independently engage in research project
->5. Applicants must possess good academic ethics.
+>5. Applicants must possess good academic ethics
 
 
 <br>
 
 # Salary and Benefits
 
->1. Successful applicants will receive the standard post-doctorate benefits of Tsinghua University. The salary will be negotiated.
+>1. Successful applicants will receive the standard post-doctorate benefits of Tsinghua University. The salary will be negotiated
 >2. The laboratory will provide a first-class scientific research environment and sufficient development opportunities, such as supporting applications for the Tsinghua University "Shuimu Scholar" program, Postdoctoral Fund of Tsinghua-Peking University Joint Center, Tsinghua University Postdoctoral Innovative Talent Support Program, etc.
->3. Excellent postdoctoral fellows with research potential will be recommended for PI positions in first-class universities. At present, the postdoctoral fellows who have left the laboratory are engaged in scientific research in various universities, including Peking University School of Basic Medical Sciences and Zhejiang University.
+>3. Excellent postdoctoral fellows with research potential will be recommended for PI positions in first-class universities. At present, the postdoctoral fellows who have left the laboratory are engaged in scientific research in various universities, including Peking University School of Basic Medical Sciences and Zhejiang University
 
 <br>
 
