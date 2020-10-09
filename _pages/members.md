@@ -14,8 +14,8 @@ redirect_from:
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
           <li class="masthead__menu-item"><a href="#PI">PI</a></li>
-          <li class="masthead__menu-item"><a href="#Postdoc">Postdoc</a></li>
-          <li class="masthead__menu-item"><a href="#PhD">Ph. D. Student</a></li>
+          <li class="masthead__menu-item"><a href="#Postdoc">Postdocs</a></li>
+          <li class="masthead__menu-item"><a href="#PhD">Ph. D. Students</a></li>
           <li class="masthead__menu-item"><a href="#RA">Res Asst</a></li>
           <li class="masthead__menu-item"><a href="#VS">Visiting Scholar</a></li>
           <li class="masthead__menu-item"><a href="#Alumni">Alumni</a></li>
@@ -40,7 +40,7 @@ PI
 
 ### Mailing address	
 
-Room 239, new biology building
+Room 239, New Biology Building
 
 Tsinghua University School of Medicine
 
@@ -64,7 +64,7 @@ liyulab@tsinghua.edu.cn
 
 <h2 id="Postdoc"></h2>
 
-Postdoc
+Postdocs
 =====
 <div style="clear: both;" align="left">
 <img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Dachuan%20Zhang.jpg" width="200" alt="Dachuan Zhang" align=right hspace="50" vspace="30"/>
@@ -113,7 +113,7 @@ huangyuwei@mail.tsinghua.edu.cn
 
 <h2 id="PhD"></h2>
 
-Ph. D. Student
+Ph. D. Students
 =====
 
 ## Tianlun Ding &nbsp;&nbsp; 丁天伦
@@ -210,7 +210,7 @@ yh-liu16@outlook.com
 
 <h2 id="RA"></h2>
 
-Research Assistant
+Research Assistants
 =====
 
 ## Ying Li &nbsp;&nbsp; 李 英
@@ -306,7 +306,7 @@ Alumni
 
 ### Research interests
 
-Molecular mechanism and physiological function of extracellular vesicle
+Molecular mechanism and physiological function of extracellular vesicles
 
 ### E-mail
 
@@ -332,7 +332,7 @@ chenyang1816185048@bjmu.edu.cn
 
 ## Jing Zhu &nbsp;&nbsp; 朱 婧
 
-#### Research Assistant in ZhiPing Xie ( 谢志平 ) Lab, School of Life Sciences and Biotechnology,Shanghai Jiao Tong University
+#### Research Assistant in ZhiPing Xie ( 谢志平 ) Lab, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University
 
 <br>
 
@@ -390,14 +390,14 @@ chenyang1816185048@bjmu.edu.cn
 
 ## Daxiao Sun &nbsp;&nbsp; 孙大晓
 
-#### Postdoc in Max Planck institute of Molecular Cell Biology and Genetics (MPI-CBG) and Physics of life (PoL)-TU Dresden
+#### Postdoc in Max Planck institute of Molecular Cell Biology and Genetics (MPI-CBG) and Physics of life (PoL), TU Dresden
 
 ### Research interests
 
-1. phase separation on 2D surface
-2. assembly of tight junction
-3. cell polarity establishment in *C. elegans* zygote
-4. mechanism and cargo sorting of p62 mediated autophagy
+1. Phase separation on 2D surfaces
+2. Assembly of tight junctions
+3. Cell polarity establishment in the *C. elegans* zygote
+4. p62-mediated autophagy: mechanism and cargo sorting
 
 ### E-mail
 
@@ -456,7 +456,7 @@ Lab Manager
 
 <h2 id="Undergraduate"></h2>
 
-Undergraduate Student
+Undergraduate Students
 =====
 
 <div style="clear: both;" align="left">

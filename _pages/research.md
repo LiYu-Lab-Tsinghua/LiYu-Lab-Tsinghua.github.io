@@ -9,7 +9,7 @@ redirect_from:
 
 <br>
 
-We want to known everything about migrasome, including how migrasome forms and the functions and pathophysiological roles of migrasome ... We are also busy developing the technology for studying migrasome. Our long-term goal is to develop migrasome biology into a new field.
+We want to know everything about migrasomes, including how migrasomes form, and the functions and pathophysiological roles of migrasomes... We are also busy developing the technology for studying migrasomes. Our long-term goal is to develop migrasome biology into a new field.
 
 <br>
 

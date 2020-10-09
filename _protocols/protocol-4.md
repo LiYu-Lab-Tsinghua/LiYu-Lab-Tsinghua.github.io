@@ -1,5 +1,5 @@
 ---
-title: "Sample preparation of migrasome for electron microscopy"
+title: "Preparation of migrasome samples for electron microscopy"
 excerpt: "\"Exclusive recipe\" ~"
 collection: protocols
 ---

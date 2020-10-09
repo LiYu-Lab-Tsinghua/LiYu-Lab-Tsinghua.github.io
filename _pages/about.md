@@ -12,7 +12,7 @@ redirect_from:
 
 <br>
 
-Our lab discovered and named migrasome in 2014. We found during cell migration, retraction fibers are pulled from the rear end of cells, and large vesicular structures grow on the retraction fibers. When the cell migrates away, the retraction fibers break and vesicles are left behind. Since the formation of these vesicles are migration dependent, we named these structure as migrasome. Migrasome contains numerous luminal vesicles, cellular contents such as luminal vesicles and cytosol can be released from the cell through migrasomes, a process we named as migracytosis. 
+Our lab discovered and named migrasomes in 2014. We found that during cell migration, retraction fibers are pulled from the rear end of cells, and large vesicular structures grow on the retraction fibers. When the cell migrates away, the retraction fibers break and vesicles are left behind. Since the formation of these vesicles is migration-dependent, we named these structures as migrasomes. Migrasomes contain numerous luminal vesicles. Cellular contents such as luminal vesicles and cytosol can be released from the cell through migrasomes, a process we named as migracytosis. 
 
 <br>
 
@@ -26,9 +26,9 @@ Our lab discovered and named migrasome in 2014. We found during cell migration, 
 
 <br>
 
-Our recent work reveals migrasomes play a key role in zebrafish organogenesis. We found that signaling molecules are packed into migrasome and are released to defined locations by migrasome, thus activate surrounding cells. In this sense, migrasomes can integrate spatial, temporal and specific chemical information which is required for coordinating the behavior of a community of cells during a complicated biological process such as embryonic development, immune-response, tumor metastasis, angiogenesis … In short, migrasome is a packet of information with a specific address to deliver which mediated a novel type of cell-cell communication.
+Our recent work reveals that migrasomes play a key role in zebrafish organogenesis. We found that signaling molecules are packed into migrasomes and are released to defined locations by migrasomes, thus activating  surrounding cells. In this sense, migrasomes can integrate spatial, temporal and specific chemical information which is required for coordinating the behavior of a community of cells during a complicated biological process such as embryonic development, the immune response, tumor metastasis, angiogenesis… In short, a migrasome is a packet of information with a specific delivery address, which mediates a novel type of cell-cell communication.
 
-In the same time, migrasome may also have other functions such as organelles quality control, lateral transfer of cellular contents and unconventional secretion.
+At the same time, migrasomes may also have other functions such as organelle quality control, lateral transfer of cellular contents and unconventional secretion.
 
 <br>
 
