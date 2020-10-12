@@ -464,7 +464,7 @@ Undergraduate Students
 =====
 
 <div style="clear: both;" align="left">
-<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Chuheng Qing.jpg" width="200" alt="Chuheng Qing" align=right hspace="50" vspace="35"/>
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Chuheng Qing.jpg" width="200" alt="Chuheng Qing" align=right hspace="50" vspace="50"/>
 </div>
 
 ## Chuheng Qing &nbsp;&nbsp; 青楚珩
