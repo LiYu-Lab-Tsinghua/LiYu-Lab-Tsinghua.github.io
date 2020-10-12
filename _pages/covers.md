@@ -11,15 +11,15 @@ redirect_from:
 
 <br>
 
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/covers/nature%20cell%20biology%202019.png" width=600>
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/nature cell biology 2019.png" width=600>
 
 <br>
 
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/covers/wang%20et%20al%20cell%20research%202015.png" width=600>
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/wang et al cell research 2015.png" width=600>
 
 <br>
 
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/covers/ma%20et%20al%20cell%20research%202014.png" width=600>
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/ma et al cell research 2014.png" width=600>
 
 <br>
 
