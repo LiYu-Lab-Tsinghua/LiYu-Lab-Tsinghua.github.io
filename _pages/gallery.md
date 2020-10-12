@@ -13,7 +13,7 @@ redirect_from:
 
 ## *Phoenix Feather~*
 
-![](https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/migrasome.jpg "Migracytosis of a L929 cell")
+![](https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/migrasome.jpg "Migracytosis of a L929 cell")
 
 <br>
 
