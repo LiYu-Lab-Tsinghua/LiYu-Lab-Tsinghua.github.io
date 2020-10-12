@@ -67,18 +67,18 @@ liyulab@tsinghua.edu.cn
 Postdocs
 =====
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Dachuan%20Zhang.jpg" width="200" alt="Dachuan Zhang" align=right hspace="50" vspace="30"/>
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Dachuan Zhang.jpg" width="200" alt="Dachuan Zhang" align=right hspace="50" vspace="30"/>
 </div>
 
 ## Dachuan Zhang &nbsp;&nbsp; 张大川
 
-#### Pay attention, young man！ (╬￣皿￣).jpg
+#### Pay attention, young man (╬￣皿￣).jpg
 
 <br>
 <br>
 
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Wanqing%20Du.jpg" width="200" alt="Wanqing Du" align=right hspace="50" vspace="20"/>
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Wanqing Du.jpg" width="200" alt="Wanqing Du" align=right hspace="50" vspace="20"/>
 </div>
 
 ## Wanqing Du &nbsp;&nbsp; 杜万清
@@ -86,7 +86,7 @@ Postdocs
 <br>
 
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Yuwei%20Huang.jpg" width="200" alt="Yuwei Huang" align=right hspace="50" vspace="40"/>
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Yuwei Huang.jpg" width="200" alt="Yuwei Huang" align=right hspace="50" vspace="40"/>
 </div>
 
 ## Yuwei Huang &nbsp;&nbsp; 黄雨薇
@@ -102,7 +102,7 @@ huangyuwei@mail.tsinghua.edu.cn
 <br>
 
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Jinqiang%20Yu.jpg" width="200" alt="Yuwei Huang" align=right hspace="50" vspace="30"/>
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Jinqiang Yu.jpg" width="200" alt="Yuwei Huang" align=right hspace="50" vspace="30"/>
 </div>
 
 ## Jinqiang Yu &nbsp;&nbsp; 俞金强
@@ -121,13 +121,13 @@ Ph. D. Students
 <br>
 
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Haisha%20Liang.jpg" width="200" alt="Haisha Liang" align=right hspace="50" vspace="30"/>
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Haisha Liang.jpg" width="200" alt="Haisha Liang" align=right hspace="50" vspace="30"/>
 </div>
 
 ## Haisha Liang &nbsp;&nbsp; 梁海莎
 
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Dongju%20Wang.jpg" width="200" alt="Dongju Wang" align=right hspace="50" vspace="30"/>
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Dongju Wang.jpg" width="200" alt="Dongju Wang" align=right hspace="50" vspace="30"/>
 </div>
 
 ## Dongju Wang &nbsp;&nbsp; 王东锔
@@ -135,7 +135,7 @@ Ph. D. Students
 <br>
 
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Yizheng%20Wang.jpg" width="200" alt="Yizheng Wang" align=right hspace="50" vspace="20"/>
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Yizheng Wang.jpg" width="200" alt="Yizheng Wang" align=right hspace="50" vspace="20"/>
 </div>
 
 ## Yizheng Wang &nbsp;&nbsp; 王懿峥
@@ -143,7 +143,7 @@ Ph. D. Students
 <br><br><br><br><br><br><br>
 
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Di%20Lu.jpg" width="200" alt="Di Lu" align=right hspace="50" vspace="30"/>
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Di Lu.jpg" width="200" alt="Di Lu" align=right hspace="50" vspace="30"/>
 </div>
 
 ## Di Lu &nbsp;&nbsp; 陆 娣
@@ -155,7 +155,7 @@ Ph. D. Students
 <br>
 
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Xuan%20Wang.jpg" width="200" alt="Xuan Wang" align=right hspace="50" vspace="30"/>
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Xuan Wang.jpg" width="200" alt="Xuan Wang" align=right hspace="50" vspace="30"/>
 </div>
 
 ## Xuan Wang &nbsp;&nbsp; 王 暄
@@ -167,7 +167,7 @@ Ph. D. Students
 <br>
 
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Minghui%20Shi.jpg" width="200" alt="Minghui Shi" align=right hspace="50" vspace="20"/>
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Minghui Shi.jpg" width="200" alt="Minghui Shi" align=right hspace="50" vspace="20"/>
 </div>
 
 ## Minghui Shi &nbsp;&nbsp; 史明慧
@@ -179,7 +179,7 @@ Ph. D. Students
 <br>
 
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Yuhan%20Xiang.jpg" width="200" alt="Yuhan Xiang" align=right hspace="50" vspace="20"/>
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Yuhan Xiang.jpg" width="200" alt="Yuhan Xiang" align=right hspace="50" vspace="20"/>
 </div>
 
 ## Yuhan Xiang &nbsp;&nbsp; 项雨涵
@@ -199,7 +199,7 @@ xyh19@mails.tsinghua.edu.cn
 <br>
 
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Yuheng%20Liu.jpg" width="200" alt="Yuheng Liu" align=right hspace="50" vspace="20"/>
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Yuheng Liu.jpg" width="200" alt="Yuheng Liu" align=right hspace="50" vspace="20"/>
 </div>
 
 ## Yuheng Liu &nbsp;&nbsp; 刘宇恒
@@ -226,7 +226,7 @@ Research Assistants
 <br>
 
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Mingli%20Zhu.jpg" width="200" alt="Mingli Zhu" align=right hspace="50" vspace="30"/>
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Mingli Zhu.jpg" width="200" alt="Mingli Zhu" align=right hspace="50" vspace="30"/>
 </div>
 
 ## Mingli Zhu &nbsp;&nbsp; 祝明莉
@@ -242,7 +242,7 @@ mlzhu135@163.com
 <br>
 
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Shuyao%20Yin.jpg" width="200" alt="Shuyao Yin" align=right hspace="50" vspace="30"/>
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Shuyao Yin.jpg" width="200" alt="Shuyao Yin" align=right hspace="50" vspace="30"/>
 </div>
 
 ## Shuyao Yin &nbsp;&nbsp; 殷舒瑶
@@ -256,7 +256,7 @@ mlzhu135@163.com
 Visiting Scholar
 =====
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Lin%20Jiao.jpg" width="200" alt="Lin Jiao" align=right hspace="50" vspace="20"/>
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Lin Jiao.jpg" width="200" alt="Lin Jiao" align=right hspace="50" vspace="20"/>
 </div>
 
 ## Lin Jiao &nbsp;&nbsp; 焦 琳
@@ -301,7 +301,7 @@ Alumni
 <br>
 
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Yang%20Chen.jpg" width="200" alt="Daxiao Sun" align=right hspace="50" vspace="30"/>
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Yang Chen.jpg" width="200" alt="Daxiao Sun" align=right hspace="50" vspace="30"/>
 </div>
 
 ## Yang Chen &nbsp;&nbsp; 陈 扬
@@ -389,7 +389,7 @@ chenyang1816185048@bjmu.edu.cn
 <br>
 
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Daxiao%20Sun.jpeg" width="200" alt="Daxiao Sun" align=right hspace="50" vspace="40"/>
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Daxiao Sun.jpeg" width="200" alt="Daxiao Sun" align=right hspace="50" vspace="40"/>
 </div>
 
 ## Daxiao Sun &nbsp;&nbsp; 孙大晓
@@ -410,7 +410,7 @@ dsun@mpi-cbg.de
 <br>
 
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Danni%20Wu.jpg" width="200" alt="Daxiao Sun" align=right hspace="50" vspace="40"/>
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Danni Wu.jpg" width="200" alt="Daxiao Sun" align=right hspace="50" vspace="40"/>
 </div>
 
 ## Danni Wu &nbsp;&nbsp; 伍丹妮
@@ -464,7 +464,7 @@ Undergraduate Students
 =====
 
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Jiuling%20He.jpg" width="200" alt="Jiuling He" align=right hspace="50" vspace="20"/>
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Jiuling He.jpg" width="200" alt="Jiuling He" align=right hspace="50" vspace="20"/>
 </div>
 
 ## Jiuling He &nbsp;&nbsp; 贺久凌
@@ -474,7 +474,7 @@ Undergraduate Students
 <br><br><br><br><br><br><br>
 
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Weihao%20Yan.jpg" width="200" alt="Weihao Yan" align=right hspace="50" vspace="40"/>
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Weihao Yan.jpg" width="200" alt="Weihao Yan" align=right hspace="50" vspace="40"/>
 </div>
 
 ## Weihao Yan &nbsp;&nbsp; 阎伟豪
@@ -488,7 +488,7 @@ yanwh18@mails.tsinghua.edu.cn
 <br>
 
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/members/Wanjing%20Shi.jpg" width="200" alt="Wanjing Shi" align=right hspace="50" vspace="30"/>
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Wanjing Shi.jpg" width="200" alt="Wanjing Shi" align=right hspace="50" vspace="30"/>
 </div>
 
 ## Wanjing Shi &nbsp;&nbsp; 史婉晶
