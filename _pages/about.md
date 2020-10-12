@@ -18,8 +18,8 @@ Our lab discovered and named migrasomes in 2014. We found that during cell migra
 
 <center>
 <video width="600" autoplay="autoplay" controls>
-  <source src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/main/migrasome.mp4" type="video/mp4">
-  <object data="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/main/migrasome.mp4" width="600">
+  <source src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/migrasome.mp4" type="video/mp4">
+  <object data="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/migrasome.mp4" width="600">
   </object> 
 </video>
 </center>
