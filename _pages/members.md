@@ -33,7 +33,7 @@ redirect_from:
 PI
 =====
 <div style="clear: both;" align="left">
-<img src="https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/Li%20Yu.png" width="200" alt="Li Yu" align=right hspace="50" vspace="40"/>
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Li Yu.png" width="200" alt="Li Yu" align=right hspace="50" vspace="40"/>
 </div>
 
 ## Li Yu &nbsp;&nbsp; 俞 立
@@ -72,7 +72,7 @@ Postdocs
 
 ## Dachuan Zhang &nbsp;&nbsp; 张大川
 
-#### Pay attention, young man (╬￣皿￣).jpg
+#### Pay attention, young man！ (╬￣皿￣).jpg
 
 <br>
 <br>
