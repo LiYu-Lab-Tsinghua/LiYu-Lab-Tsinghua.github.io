@@ -320,7 +320,7 @@ chenyang1816185048@bjmu.edu.cn
 
 ## Junya Peng &nbsp;&nbsp; 彭俊雅
 
-#### PI in Peking Union Medical College Hospital
+#### Research associate in Peking Union Medical College Hospital
 
 <br>
 
@@ -336,7 +336,7 @@ chenyang1816185048@bjmu.edu.cn
 
 ## Jing Zhu &nbsp;&nbsp; 朱 婧
 
-#### Research Assistant in ZhiPing Xie ( 谢志平 ) Lab, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University
+#### Research associate in ZhiPing Xie ( 谢志平 ) Lab, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University
 
 <br>
 
