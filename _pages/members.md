@@ -330,7 +330,7 @@ chenyang1816185048@bjmu.edu.cn
 
 ## Chong Wang &nbsp;&nbsp; 王 冲
 
-#### Director of Fujian Nanping Natural Resources Administration
+#### Director of Fujian Nanping Natural Resources Administration, Director of Nanping Land Acquisition and Reserve Center
 
 <br>
 
