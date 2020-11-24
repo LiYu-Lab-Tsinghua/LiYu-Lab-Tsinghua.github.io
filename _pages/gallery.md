@@ -11,29 +11,29 @@ redirect_from:
 
 <br>
 
-## *Migrasomes in Vitro*
+## *Migracytosis in Vitro*
 
-![](https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/migrasome.jpg "Migracytosis of a L929 cell")
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/migrasome.jpg" width="800" />
 
-![](https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/migrasome-2.png "Migracytosis")
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/migrasome-2.png" width="800" />
 
 <br>
 
 ## *A Migrasome Filled with Vesicles*
 
-![](https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/vesicles.png "A migrasome filled with vesicles under TEM")
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/vesicles.png" width="800" />
 
 <br>
 
 ## *Zebrafish Embryonic Cells Produce Migrasomes in Vivo*
 
-![](https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/zebrafish-migrasome.png "Zebrafish Embryonic Cells Produce Migrasomes in Vivo")
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/zebrafish-migrasome.png" width="800" />
 
 <br>
 
 ## *ER Whorl*
 
-![](https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/ER-whorl.png "ER whorl under TEM and 3D reconstitution")
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/ER-whorl.png" width="800" />
 
 ---
 
