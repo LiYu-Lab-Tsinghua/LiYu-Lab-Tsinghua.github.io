@@ -11,11 +11,29 @@ redirect_from:
 
 <br>
 
-## *Phoenix Feather~*
+## *Migrasomes in Vitro*
 
 ![](https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/migrasome.jpg "Migracytosis of a L929 cell")
 
+![](https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/migrasome-2.png "Migracytosis")
+
 <br>
+
+## *A Migrasome Filled with Vesicles*
+
+![](https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/vesicles.png "A migrasome filled with vesicles under TEM")
+
+<br>
+
+## *Zebrafish Embryonic Cells Produce Migrasomes in Vivo*
+
+![](https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/zebrafish-migrasome.png "Zebrafish Embryonic Cells Produce Migrasomes in Vivo")
+
+<br>
+
+## *ER Whorl*
+
+![](https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/ER-whorl.png "ER whorl under TEM and 3D reconstitution")
 
 ---
 
