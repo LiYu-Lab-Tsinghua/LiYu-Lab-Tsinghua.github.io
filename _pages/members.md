@@ -237,10 +237,6 @@ mlzhu135@163.com
 
 <br><br>
 
-## Fang Xu &nbsp;&nbsp; 徐 芳
-
-<br>
-
 <div style="clear: both;" align="left">
 <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Shuyao Yin.jpg" width="200" alt="Shuyao Yin" align=right hspace="50" vspace="30"/>
 </div>
@@ -385,6 +381,12 @@ chenyang1816185048@bjmu.edu.cn
 ## Shaojin Zhang &nbsp;&nbsp; 张绍进
 
 #### Postdoc in Yi Yang ( 杨 弋 ) Lab, East China University of Science and Technology
+
+<br>
+
+## Fang Xu &nbsp;&nbsp; 徐 芳
+
+#### PI in School of Basic Medical Sciences, Guangzhou Medical University
 
 <br>
 
