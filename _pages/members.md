@@ -102,12 +102,19 @@ huangyuwei@mail.tsinghua.edu.cn
 <br>
 
 <div style="clear: both;" align="left">
-<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Jinqiang Yu.jpg" width="200" alt="Yuwei Huang" align=right hspace="50" vspace="30"/>
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Jinqiang Yu.jpg" width="200" alt="Jinqiang Yu" align=right hspace="50" vspace="30"/>
 </div>
 
 ## Jinqiang Yu &nbsp;&nbsp; 俞金强
 
-<br><br><br><br><br><br><br>
+<div style="clear: both;" align="left">
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Baiqi Liu.jpg
+" width="200" alt="Baiqi Liu" align=right hspace="50" vspace="30"/>
+</div>
+
+## Baiqi Liu &nbsp;&nbsp; 刘柏岐
+
+<br><br><br><br><br><br><br><br>
 
 ---
 
