@@ -109,10 +109,10 @@ huangyuwei@mail.tsinghua.edu.cn
 
 <div style="clear: both;" align="left">
 <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Baiqi Liu.jpg
-" width="200" alt="Baiqi Liu" align=right hspace="50" vspace="30"/>
+" width="200" alt="Boqi Liu" align=right hspace="50" vspace="30"/>
 </div>
 
-## Baiqi Liu &nbsp;&nbsp; 刘柏岐
+## Boqi Liu &nbsp;&nbsp; 刘柏岐
 
 <br><br><br><br><br><br><br><br>
 
