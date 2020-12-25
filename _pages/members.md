@@ -114,7 +114,18 @@ huangyuwei@mail.tsinghua.edu.cn
 
 ## Boqi Liu &nbsp;&nbsp; 刘柏岐
 
-<br><br><br><br><br><br><br><br>
+<div style="clear: both;" align="left">
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Shunbang Yu.jpg
+" width="200" alt="Shunbang Yu" align=right hspace="50" vspace="30"/>
+</div>
+
+## Shunbang Yu &nbsp;&nbsp; 余舜邦
+
+### E-mail
+
+c3220962@uon.edu.au
+
+<br><br><br><br><br>
 
 ---
 
