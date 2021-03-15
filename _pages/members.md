@@ -550,7 +550,7 @@ shiwj18@mails.tsinghua.edu.cn
 
 <div style="clear: both;" align="left">
 <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Wenhao Song.jpg
-" width="200" alt="Wenhao Song" align=right hspace="50" vspace="40"/>
+" width="200" alt="Wenhao Song" align=right hspace="50" vspace="60"/>
 </div>
 
 ## Wenhao Song &nbsp;&nbsp; 宋文豪
