@@ -546,11 +546,11 @@ yanwh18@mails.tsinghua.edu.cn
 
 shiwj18@mails.tsinghua.edu.cn
 
-<br>
+<br><br>
 
 <div style="clear: both;" align="left">
 <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Wenhao Song.jpg
-" width="200" alt="Wanjing Shi" align=right hspace="50" vspace="30"/>
+" width="200" alt="Wenhao Song" align=right hspace="50" vspace="30"/>
 </div>
 
 ## Wenhao Song &nbsp;&nbsp; 宋文豪
