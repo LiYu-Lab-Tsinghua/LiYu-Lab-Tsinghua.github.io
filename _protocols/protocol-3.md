@@ -1,5 +1,5 @@
 ---
-title: "How to extract pure migrasomes"
+title: "How to isolate migrasome"
 excerpt: "Gradient centrifugation"
 collection: protocols
 ---
