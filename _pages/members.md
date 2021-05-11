@@ -231,14 +231,22 @@ yh-liu16@outlook.com
 <br>
 
 <div style="clear: both;" align="left">
-<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Wenkang%20Zhao.jpg" width="200" alt="Yuheng Liu" align=right hspace="50" vspace="20"/>
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Wenkang%20Zhao.jpg" width="200" alt="Wenkang Zhao" align=right hspace="50" vspace="20"/>
 </div>
 
 ## Wenkang Zhao &nbsp;&nbsp; 赵文康
 
-<br><br><br><br><br><br><br><br><br><br>
+<br>
+
+<div style="clear: both;" align="left">
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Yi%20Zheng.jpg" width="200" alt="Yi Zheng" align=right hspace="50" vspace="20"/>
+</div>
 
 ## Yi Zheng &nbsp;&nbsp; 郑 羿
+
+### E-mail
+
+vikki_34@163.com
 
 ---
 
