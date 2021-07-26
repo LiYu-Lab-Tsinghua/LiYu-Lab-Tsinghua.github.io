@@ -6,6 +6,10 @@ author_profile: true
 ---
 <br>
 
+1. Wu J, Lu Z, Jiang D, Guo Y, Qiao H, Zhang Y, Zhu T, Cai Y, Zhang X, Zhanghao K, Xie H, Yan T, Zhang G, Li X, Jiang Z, Lin X, Fang L, Zhou B, Xi P, Fan J, Yu L, Dai Q. Iterative tomography with digital adaptive optics permits hour-long intravital observation of 3D subcellular dynamics at millisecond scale. Cell. 2021 Jun 10;184(12):3318-3332.e17. doi: 10.1016/j.cell.2021.04.029. Epub 2021 May 25. PMID: 34038702. [ [PDF](https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/publications/Iterative%20tomography%20with%20digital%20adaptive%20optics%20permits%20hour-long%20intravital%20observation%20of%203D%20subcellular%20dynamics%20at%20millisecond%20scale.pdf) ]
+
+2. Jiao H, Jiang D, Hu X, Du W, Ji L, Yang Y, Li X, Sho T, Wang X, Li Y, Wu YT, Wei YH, Hu X, Yu L. Mitocytosis, a migrasome-mediated mitochondrial quality-control process. Cell. 2021 May 27;184(11):2896-2910.e13. doi: 10.1016/j.cell.2021.04.027. PMID: 34048705. [ [PDF](https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/publications/Mitocytosis%2C%20a%20migrasome-mediated%20mitochondrial%20quality-control%20process.pdf) ]
+
 1. Zhu, M., Zou, Q., Huang, R. et al. Lateral transfer of mRNA and protein by migrasomes modifies the recipient cells. Cell Res (2020). https://doi.org/10.1038/s41422-020-00415-3 [ [PDF](https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/publications/Lateral%20transfer%20of%20mRNA%20and%20protein%20by%20migrasomes%20modifies%20the%20recipient%20cells.pdf) ]
 
 2. Xu, F., Du, W., Zou, Q. et al. COPII mitigates ER stress by promoting formation of ER whorls. Cell Res (2020). https://doi.org/10.1038/s41422-020-00416-2 [ [PDF](https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/publications/COPII%20mitigates%20ER%20stress%20by%20promoting%20formation%20of%20ER%20whorls.pdf) ]
