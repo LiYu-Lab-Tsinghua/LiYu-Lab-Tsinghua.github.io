@@ -129,6 +129,21 @@ c3220962@uon.edu.au
 
 <br><br><br><br><br>
 
+## Boqi Liu &nbsp;&nbsp; 刘柏岐
+
+<div style="clear: both;" align="left">
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Jinzhao%20He.jpg
+" width="200" alt="Jinzhao He" align=right hspace="50" vspace="30"/>
+</div>
+
+## Jinzhao He &nbsp;&nbsp; 贺巾钊
+
+### E-mail
+
+18200288030@163.com
+
+<br><br><br><br><br>
+
 ---
 
 <h2 id="PhD"></h2>
