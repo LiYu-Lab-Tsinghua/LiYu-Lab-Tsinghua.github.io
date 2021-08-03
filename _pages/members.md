@@ -225,7 +225,7 @@ xyh19@mails.tsinghua.edu.cn
 
 <br><br><br><br><br><br>
 
-## Takami Shū &nbsp;&nbsp; 鐘丘実 
+## Takami Sho &nbsp;&nbsp; 鐘丘実 
 
 <br>
 
@@ -537,18 +537,6 @@ Undergraduate Students
 ### E-mail
 
 qingch17@mails.tsinghua.edu.cn
-
-<br>
-
-<div style="clear: both;" align="left">
-<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Jiuling He.jpg" width="200" alt="Jiuling He" align=right hspace="50" vspace="20"/>
-</div>
-
-## Jiuling He &nbsp;&nbsp; 贺久凌
-
-#### Senior Student in Tsinghua University
-
-<br><br><br><br><br><br><br>
 
 <div style="clear: both;" align="left">
 <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Xulin Sun.jpg
