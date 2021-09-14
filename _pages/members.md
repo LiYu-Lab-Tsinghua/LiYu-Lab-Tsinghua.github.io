@@ -129,8 +129,6 @@ c3220962@uon.edu.au
 
 <br><br><br><br><br>
 
-## Boqi Liu &nbsp;&nbsp; 刘柏岐
-
 <div style="clear: both;" align="left">
 <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Jinzhao%20He.jpg
 " width="200" alt="Jinzhao He" align=right hspace="50" vspace="30"/>
@@ -273,26 +271,6 @@ Research Assistants
 ## Ying Li &nbsp;&nbsp; 李 英
 
 <br>
-
-<div style="clear: both;" align="left">
-<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Yawen%20Wang.jpg" width="200" alt="Shuyao Yin" align=right hspace="50" vspace="30"/>
-</div>
-
-## Yawen Wang &nbsp;&nbsp; 王雅文
-
-### E-mail
-
-mary513928@163.com
-
-<br>
-
-<div style="clear: both;" align="left">
-<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Shuyao Yin.jpg" width="200" alt="Shuyao Yin" align=right hspace="50" vspace="30"/>
-</div>
-
-## Shuyao Yin &nbsp;&nbsp; 殷舒瑶
-
-<br><br><br><br><br><br><br><br><br>
 
 ---
 
@@ -527,18 +505,6 @@ Undergraduate Students
 =====
 
 <div style="clear: both;" align="left">
-<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Chuheng Qing.jpg" width="200" alt="Chuheng Qing" align=right hspace="50" vspace="50"/>
-</div>
-
-## Chuheng Qing &nbsp;&nbsp; 青楚珩
-
-#### Senior Student in Tsinghua University
-
-### E-mail
-
-qingch17@mails.tsinghua.edu.cn
-
-<div style="clear: both;" align="left">
 <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Xulin Sun.jpg
 " width="200" alt="Xulin Sun" align=right hspace="50" vspace="20"/>
 </div>
@@ -557,7 +523,7 @@ wencsxl@163.com
 
 ## Weihao Yan &nbsp;&nbsp; 阎伟豪
 
-#### Junior Student in Tsinghua University
+#### Senior Student in Tsinghua University
 
 ### E-mail
 
@@ -571,7 +537,7 @@ yanwh18@mails.tsinghua.edu.cn
 
 ## Wanjing Shi &nbsp;&nbsp; 史婉晶
 
-#### Junior Student in Tsinghua University
+#### Senior Student in Tsinghua University
 
 ### E-mail
 
@@ -586,7 +552,7 @@ shiwj18@mails.tsinghua.edu.cn
 
 ## Wenhao Song &nbsp;&nbsp; 宋文豪
 
-#### Sophomore in Tsinghua University
+#### Junior Student in Tsinghua University
 
 ### E-mail
 
