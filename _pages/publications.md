@@ -6,6 +6,10 @@ author_profile: true
 ---
 <br>
 
+1. Wang, Y., Gao, S., Liu, Y. et al. Retractosomes: small extracellular vesicles generated from broken-off retraction fibers. Cell Res (2022). https://doi.org/10.1038/s41422-022-00666-2 [ [PDF](https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/publications/Retractosomes%20-%20small%20extracellular%20vesicles%20generated%20from%20broken-off%20retraction%20fibers.pdf) ]
+
+1. Huang, Y., Zhang, X., Wang, HW. et al. Assembly of Tetraspanin-enriched macrodomains contains membrane damage to facilitate repair. Nat Cell Biol 24, 825–832 (2022). https://doi.org/10.1038/s41556-022-00920-0 [ [PDF](https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/publications/Assembly%20of%20Tetraspanin-enriched%20macrodomains%20contains%20membrane%20damage%20to%20facilitate%20repair.pdf) ]
+
 1. Wu J, Lu Z, Jiang D, Guo Y, Qiao H, Zhang Y, Zhu T, Cai Y, Zhang X, Zhanghao K, Xie H, Yan T, Zhang G, Li X, Jiang Z, Lin X, Fang L, Zhou B, Xi P, Fan J, Yu L, Dai Q. Iterative tomography with digital adaptive optics permits hour-long intravital observation of 3D subcellular dynamics at millisecond scale. Cell. 2021 Jun 10;184(12):3318-3332.e17. doi: 10.1016/j.cell.2021.04.029. Epub 2021 May 25. PMID: 34038702. [ [PDF](https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/publications/Iterative%20tomography%20with%20digital%20adaptive%20optics%20permits%20hour-long%20intravital%20observation%20of%203D%20subcellular%20dynamics%20at%20millisecond%20scale.pdf) ]
 
 2. Jiao H, Jiang D, Hu X, Du W, Ji L, Yang Y, Li X, Sho T, Wang X, Li Y, Wu YT, Wei YH, Hu X, Yu L. Mitocytosis, a migrasome-mediated mitochondrial quality-control process. Cell. 2021 May 27;184(11):2896-2910.e13. doi: 10.1016/j.cell.2021.04.027. PMID: 34048705. [ [PDF](https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/publications/Mitocytosis%2C%20a%20migrasome-mediated%20mitochondrial%20quality-control%20process.pdf) ]
