@@ -144,22 +144,14 @@ c3220962@uon.edu.au
 
 <br><br><br><br><br>
 
+## Tianlun Ding &nbsp;&nbsp; 丁天伦
+
 ---
 
 <h2 id="PhD"></h2>
 
 Ph. D. Students
 =====
-
-## Tianlun Ding &nbsp;&nbsp; 丁天伦
-
-<br>
-
-<div style="clear: both;" align="left">
-<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Haisha Liang.jpg" width="200" alt="Haisha Liang" align=right hspace="50" vspace="30"/>
-</div>
-
-## Haisha Liang &nbsp;&nbsp; 梁海莎
 
 <div style="clear: both;" align="left">
 <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Dongju Wang.jpg" width="200" alt="Dongju Wang" align=right hspace="50" vspace="30"/>
@@ -263,6 +255,21 @@ yh-liu16@outlook.com
 
 vikki_34@163.com
 
+<div style="clear: both;" align="left">
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Xulin Sun.jpg
+" width="200" alt="Xulin Sun" align=right hspace="50" vspace="20"/>
+</div>
+
+## Xulin Sun &nbsp;&nbsp; 孙旭林
+
+#### Senior Student in Nankai University
+
+### E-mail
+
+wencsxl@163.com
+
+<br><br><br>
+
 ---
 
 <h2 id="RA"></h2>
@@ -272,7 +279,13 @@ Research Assistants
 
 ## Ying Li &nbsp;&nbsp; 李 英
 
-<br>
+<div style="clear: both;" align="left">
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Haisha Liang.jpg" width="200" alt="Haisha Liang" align=right hspace="50" vspace="30"/>
+</div>
+
+## Haisha Liang &nbsp;&nbsp; 梁海莎
+
+<br><br><br><br>
 
 ---
 
@@ -507,47 +520,6 @@ Undergraduate Students
 =====
 
 <div style="clear: both;" align="left">
-<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Xulin Sun.jpg
-" width="200" alt="Xulin Sun" align=right hspace="50" vspace="20"/>
-</div>
-
-## Xulin Sun &nbsp;&nbsp; 孙旭林
-
-#### Senior Student in Nankai University
-
-### E-mail
-
-wencsxl@163.com
-
-<div style="clear: both;" align="left">
-<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Weihao Yan.jpg" width="200" alt="Weihao Yan" align=right hspace="50" vspace="40"/>
-</div>
-
-## Weihao Yan &nbsp;&nbsp; 阎伟豪
-
-#### Senior Student in Tsinghua University
-
-### E-mail
-
-yanwh18@mails.tsinghua.edu.cn
-
-<br>
-
-<div style="clear: both;" align="left">
-<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Wanjing Shi.jpg" width="200" alt="Wanjing Shi" align=right hspace="50" vspace="30"/>
-</div>
-
-## Wanjing Shi &nbsp;&nbsp; 史婉晶
-
-#### Senior Student in Tsinghua University
-
-### E-mail
-
-shiwj18@mails.tsinghua.edu.cn
-
-<br>
-
-<div style="clear: both;" align="left">
 <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Wenhao Song.jpg
 " width="200" alt="Wenhao Song" align=right hspace="50" vspace="60"/>
 </div>
@@ -559,10 +531,6 @@ shiwj18@mails.tsinghua.edu.cn
 ### E-mail
 
 songwh19@mails.tsinghua.edu.cn
-
-<br>
-
-## Kun Peng &nbsp;&nbsp; 彭 琨
 
 <br>
 
