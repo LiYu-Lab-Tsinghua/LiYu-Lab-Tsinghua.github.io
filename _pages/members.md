@@ -83,7 +83,9 @@ Postdocs
 
 ## Wanqing Du &nbsp;&nbsp; 杜万清
 
-<br><br><br><br><br><br><br><br><br><br>
+<div style="clear: both;" align="left">
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Cuifang Zhang.jpg" width="200" alt="Cuifang Zhang" align=right hspace="50" vspace="40"/>
+</div>
 
 ## Cuifang Zhang &nbsp;&nbsp; 张翠芳
 
