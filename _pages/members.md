@@ -17,7 +17,6 @@ redirect_from:
           <li class="masthead__menu-item"><a href="#Postdoc">Postdocs</a></li>
           <li class="masthead__menu-item"><a href="#PhD">Ph. D. Students</a></li>
           <li class="masthead__menu-item"><a href="#RA">Res Asst</a></li>
-          <li class="masthead__menu-item"><a href="#VS">Visiting Scholar</a></li>
           <li class="masthead__menu-item"><a href="#Alumni">Alumni</a></li>
           <li class="masthead__menu-item"><a href="#LM">Manager</a></li>
           <li class="masthead__menu-item"><a href="#Undergraduate">Undergraduate</a></li>
@@ -276,6 +275,41 @@ wencsxl@163.com
 
 lscyn0805@126.com
 
+<div style="clear: both;" align="left">
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/RenXiang Xie.jpg
+" width="200" alt="Renxiang Xie" align=right hspace="50" vspace="20"/>
+</div>
+
+## Renxiang Xie &nbsp;&nbsp; 谢任翔
+
+### E-mail
+
+xrx21@mails.tsinghua.edu.cn
+
+<div style="clear: both;" align="left">
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Haohao Jia.jpg
+" width="200" alt="Haohao Jia" align=right hspace="50" vspace="60"/>
+</div>
+
+## Haohao Jia &nbsp;&nbsp; 贾皓昊
+
+### E-mail
+
+jiahh22@mails.tsinghua.edu.cn
+
+<div style="clear: both;" align="left">
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Xiyuan Liu.jpg
+" width="200" alt="Siyuan Liu" align=right hspace="50" vspace="60"/>
+</div>
+
+## Siyuan Liu &nbsp;&nbsp; 刘思远
+
+### E-mail
+
+sy-liu22@mails.tsinghua.edu.cn
+
+<br><br>
+
 ---
 
 <h2 id="RA"></h2>
@@ -292,26 +326,6 @@ Research Assistants
 ## Haisha Liang &nbsp;&nbsp; 梁海莎
 
 <br><br><br><br>
-
----
-
-<h2 id="VS"></h2>
-
-Visiting Scholar
-=====
-<div style="clear: both;" align="left">
-<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Lin Jiao.jpg" width="200" alt="Lin Jiao" align=right hspace="50" vspace="20"/>
-</div>
-
-## Lin Jiao &nbsp;&nbsp; 焦 琳
-
-#### Postdoc from Department of Laboratory Medicine, Sichuan University West China Hospital 
-
-### E-mail
-
-sysuccjl@163.com
-
-<br><br>
 
 ---
 
@@ -551,14 +565,3 @@ songwh19@mails.tsinghua.edu.cn
 <br>
 
 ## Haozhi Qu &nbsp;&nbsp; 曲浩志
-
-<div style="clear: both;" align="left">
-<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Xiyuan Liu.jpg
-" width="200" alt="Wenhao Song" align=right hspace="50" vspace="60"/>
-</div>
-
-## Siyuan Liu &nbsp;&nbsp; 刘思远
-
-### E-mail
-
-sy-liu22@mails.tsinghua.edu.cn
