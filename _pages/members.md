@@ -89,21 +89,9 @@ Postdocs
 
 ## Cuifang Zhang &nbsp;&nbsp; 张翠芳
 
-<div style="clear: both;" align="left">
-<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Yuwei Huang.jpg" width="200" alt="Yuwei Huang" align=right hspace="50" vspace="40"/>
-</div>
-
-## Yuwei Huang &nbsp;&nbsp; 黄雨薇
-
-### E-mail
-
-huangyuwei@mail.tsinghua.edu.cn
-
-<br>
+<br><br><br><br><br><br><br><br><br><br>
 
 ## Dong Jiang &nbsp;&nbsp; 姜 东
-
-<br>
 
 <div style="clear: both;" align="left">
 <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Jinqiang Yu.jpg" width="200" alt="Jinqiang Yu" align=right hspace="50" vspace="30"/>
@@ -142,7 +130,18 @@ c3220962@uon.edu.au
 
 18200288030@163.com
 
-<br><br><br><br><br>
+<div style="clear: both;" align="left">
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Dandan Huang.jpg
+" width="200" alt="Dandan Huang" align=right hspace="50" vspace="30"/>
+</div>
+
+## Dandan Huang &nbsp;&nbsp; 黄丹丹
+
+### E-mail
+
+huangdd@mail.tsinghua.edu.cn
+
+<br><br><br><br><br><br>
 
 ## Tianlun Ding &nbsp;&nbsp; 丁天伦
 
@@ -238,7 +237,7 @@ yh-liu16@outlook.com
 <br>
 
 <div style="clear: both;" align="left">
-<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Wenkang%20Zhao.jpg" width="200" alt="Wenkang Zhao" align=right hspace="50" vspace="20"/>
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Wenkang Zhao.jpg" width="200" alt="Wenkang Zhao" align=right hspace="50" vspace="20"/>
 </div>
 
 ## Wenkang Zhao &nbsp;&nbsp; 赵文康
@@ -262,13 +261,20 @@ vikki_34@163.com
 
 ## Xulin Sun &nbsp;&nbsp; 孙旭林
 
-#### Senior Student in Nankai University
-
 ### E-mail
 
 wencsxl@163.com
 
-<br><br><br>
+<div style="clear: both;" align="left">
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Yining Chen.jpg
+" width="200" alt="Yining Chen" align=right hspace="50" vspace="20"/>
+</div>
+
+## Yining Chen &nbsp;&nbsp; 陈怡宁
+
+### E-mail
+
+lscyn0805@126.com
 
 ---
 
@@ -499,7 +505,17 @@ danniwu1224@163.com
 
 mlzhu135@163.com
 
-<br><br><br>
+<div style="clear: both;" align="left">
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Yuwei Huang.jpg" width="200" alt="Yuwei Huang" align=right hspace="50" vspace="40"/>
+</div>
+
+## Yuwei Huang &nbsp;&nbsp; 黄雨薇
+
+### E-mail
+
+huangyuwei@mail.tsinghua.edu.cn
+
+<br>
 
 ---
 
@@ -535,3 +551,14 @@ songwh19@mails.tsinghua.edu.cn
 <br>
 
 ## Haozhi Qu &nbsp;&nbsp; 曲浩志
+
+<div style="clear: both;" align="left">
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Xiyuan Liu.jpg
+" width="200" alt="Wenhao Song" align=right hspace="50" vspace="60"/>
+</div>
+
+## Siyuan Liu &nbsp;&nbsp; 刘思远
+
+### E-mail
+
+sy-liu22@mails.tsinghua.edu.cn
