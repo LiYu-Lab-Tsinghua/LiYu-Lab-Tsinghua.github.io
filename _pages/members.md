@@ -224,7 +224,7 @@ xyh19@mails.tsinghua.edu.cn
 <br>
 
 <div style="clear: both;" align="left">
-<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Yuheng Liu.jpg" width="200" alt="Yuheng Liu" align=right hspace="50" vspace="20"/>
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/IMG_20190625_223221.jpg" width="200" alt="Yuheng Liu" align=right hspace="50" vspace="20"/>
 </div>
 
 ## Yuheng Liu &nbsp;&nbsp; 刘宇恒
