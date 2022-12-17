@@ -11,6 +11,14 @@ redirect_from:
 
 <br>
 
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Cuifang%20Zhang%20NCB%202022.png" width=600>
+
+<br>
+
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Fang%20Xu%20CR%202021.png" width=600>
+
+<br>
+
 <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/nature cell biology 2019.png" width=600>
 
 <br>
@@ -20,6 +28,10 @@ redirect_from:
 <br>
 
 <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/ma et al cell research 2014.png" width=600>
+
+<br>
+
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/ma%20CR%202014.jpg" width=200>
 
 <br>
 
