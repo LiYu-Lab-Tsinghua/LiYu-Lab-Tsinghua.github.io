@@ -6,9 +6,11 @@ author_profile: true
 ---
 <br>
 
-1. Yizheng Wang#, Shuaixin Gao, Yuheng Liu, Dongju Wang, Boqi Liu, Dong Jiang, Catherine C. L. Wong, Yang Chen, **Li Yu\***. Retractosomes: small extracellular vesicles generated from broken-off retraction fibers. **Cell Res**. 2022May;0,1-4. [ [PDF](https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/publications/Retractosomes%20-%20small%20extracellular%20vesicles%20generated%20from%20broken-off%20retraction%20fibers.pdf) ]
+1. Cuifang Zhang#, Tianqi Li, Shuyao Yin, Mingyi Gao, Helen He, Ying Li, Dong Jiang, Minghui Shi, Jianbin Wang & **Li Yu\***. Monocytes deposit migrasomes to promote embryonic angiogenesis. **Nat Cell Biol** 24, 1726–1738 (2022). [ [PDF](https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/publications/Monocytes%20deposit%20migrasomes%20to%20promote%20embryonic%20angiogenesis.pdf) ]
 
-1. Yuwei Huang#, Xing Zhang, Hong-Wei Wang, **Li Yu\***. Assembly of Tetraspanin-enriched macrodomains contains membrane damage to facilitate repair. **Nat Cell Biol**.2022June;24,825-832. [ [PDF](https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/publications/Assembly%20of%20Tetraspanin-enriched%20macrodomains%20contains%20membrane%20damage%20to%20facilitate%20repair.pdf) ]
+1. Yizheng Wang#, Shuaixin Gao, Yuheng Liu, Dongju Wang, Boqi Liu, Dong Jiang, Catherine C. L. Wong, Yang Chen, **Li Yu\***. Retractosomes: small extracellular vesicles generated from broken-off retraction fibers. **Cell Res**. 2022 May;0,1-4. [ [PDF](https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/publications/Retractosomes%20-%20small%20extracellular%20vesicles%20generated%20from%20broken-off%20retraction%20fibers.pdf) ]
+
+1. Yuwei Huang#, Xing Zhang, Hong-Wei Wang, **Li Yu\***. Assembly of Tetraspanin-enriched macrodomains contains membrane damage to facilitate repair. **Nat Cell Biol**.2022 June;24,825-832. [ [PDF](https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/publications/Assembly%20of%20Tetraspanin-enriched%20macrodomains%20contains%20membrane%20damage%20to%20facilitate%20repair.pdf) ]
 
 1. Haifeng Jiao#, Dong Jiang#, Xiaoyu Hu, Wanqing Du, Liangliang Ji, Yuzhuo Yang, Xiaopeng Li, Takami Sho, Xuan Wang, Ying Li, Yu-Ting Wu, Yau-Huei Wei, Xiaoyu Hu, and **Li Yu\***. (2021). Mitocytosis, a migrasome-mediated mitochondrial quality-control process. **Cell**. 2021 May27; 184,2896-2910. [ [PDF](https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/publications/Mitocytosis%2C%20a%20migrasome-mediated%20mitochondrial%20quality-control%20process.pdf) ]
 
