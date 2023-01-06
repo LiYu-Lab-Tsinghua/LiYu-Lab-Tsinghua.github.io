@@ -556,7 +556,7 @@ Undergraduate Students
 
 ## Wenhao Song &nbsp;&nbsp; 宋文豪
 
-#### Junior Student in Tsinghua University
+#### Senior Student in Tsinghua University
 
 ### E-mail
 
@@ -564,4 +564,17 @@ songwh19@mails.tsinghua.edu.cn
 
 <br>
 
-## Haozhi Qu &nbsp;&nbsp; 曲浩志
+<div style="clear: both;" align="left">
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Xueqing%20Li.jpg
+" width="200" alt="Xueqing Li" align=right hspace="50" vspace="60"/>
+</div>
+
+<br><br>
+
+## Xueqing Li &nbsp;&nbsp; 李雪晴
+
+#### Senior Student in SUN YAT-SEN UNIVERSITY
+
+### E-mail
+
+1360943260@qq.com
