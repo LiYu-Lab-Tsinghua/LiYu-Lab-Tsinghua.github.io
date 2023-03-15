@@ -550,9 +550,11 @@ Undergraduate Students
 =====
 
 <div style="clear: both;" align="left">
-<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Wenhao Song.jpg
+<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Wenhao%20Song.png
 " width="200" alt="Wenhao Song" align=right hspace="50" vspace="60"/>
 </div>
+
+<br>
 
 ## Wenhao Song &nbsp;&nbsp; 宋文豪
 
@@ -569,7 +571,7 @@ songwh19@mails.tsinghua.edu.cn
 " width="200" alt="Xueqing Li" align=right hspace="50" vspace="60"/>
 </div>
 
-<br><br>
+<br>
 
 ## Xueqing Li &nbsp;&nbsp; 李雪晴
 
