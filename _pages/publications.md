@@ -6,6 +6,22 @@ author_profile: true
 ---
 <br>
 
+1.	Dong Jiang, Lin Jiao, Qing Li, Renxiang Xie, Haohao Jia, Shihui Wang, Yining Chen, Siyuan Liu, Dandan Huang, Jiajia Zheng, Wenhao Song, Ying Li, Jianfeng Chen, Jinsong Li, Binwu Ying, **Li Yu\***. Neutrophil-derived migrasomes are an essential part of the coagulation system [J], **Nat Cell Biol**, 2024.(on line)
+
+2.	Haifeng Jiao*, Xiaopeng Li, Ying Li, Yuting Guo, Xiaoyu Hu, Takami Sho, Yiqun Luo, Jinyu Wang, Huizhen Cao, Wanqing Du, Dong Li, **Li Yu\***. Localized, highly efficient secretion of signaling proteins by migrasomes [J], **Cell Res**, 2024.(on line)
+
+3.	Dongju Wang, Haifang Wang, Wei Wan, Zihui Zhu, Takami Sho, Yi Zheng, Xing Zhang, Longyu Dou, Qiang Ding, **Li Yu\***, Zhihua Liu. Engineered Migrasomes: A Robust, Thermally Stable Vaccination Platform [J], **eLife**, 2024.(on line)
+
+4.	Zhi Lu, Siqing Zuo, Minghui Shi, Jiaqi Fan, Jingyu Xie, Guihua Xiao, **Li Yu\***, Jiamin Wu*, Qionghai Dai*. Long-term intravital subcellular imaging with confocal scanning light-field microscopy [J], **Nat biotechnol**, 2024.(on line).
+
+5.	Yiyang Han, **Li Yu\***. Calcium ions promote migrasome formation via synaptotagmin-1 [J], **Journal of Cell Biology**, 2024; 223(8):e202402060.
+
+6.	Tianlun Ding, Jinyao Ji, Weiying Zhang, Yuheng Liu, Boqi Liu, Yiyang Han, Chunlai Chen, **Li Yu\***. The phosphatidylinositol (4,5)-bisphosphate-Rab35 axis regulates migrasome formation [J], **Cell Research**, 2023; 33(8): 617-627. 
+
+7.	Haisha Liang, Xinyu Ma, Yuanyuan Zhang, Yuheng Liu, Nan Liu, Weiying Zhang, Jianhui Chen, Boqi Liu, Wanqing Du, Xiaohui Liu, **Li Yu\***. The formation of migrasomes is initiated by the assembly of sphingomyelin synthase 2 foci at the leading edge of migrating cells [J], **Nature Cell Biology**, 2023; 25(8): 1173-1184. 
+
+8.	Guoxun Zhang#, Xiaopeng Li#, Yuanlong Zhang#, Xiaofei Han, Xinyang Li, Jinqiang Yu, Boqi Liu, Jiamin Wu*, **Li Yu\***, Qionghai Dai*. Bio-friendly long-term subcellular dynamic recording by self-supervised image enhancement microscopy [J]. **Nat Methods**, 2023; 20(12):1957-1970.
+
 1. Cuifang Zhang#, Tianqi Li, Shuyao Yin, Mingyi Gao, Helen He, Ying Li, Dong Jiang, Minghui Shi, Jianbin Wang & **Li Yu\***. Monocytes deposit migrasomes to promote embryonic angiogenesis. **Nat Cell Biol** 24, 1726–1738 (2022). [ [PDF](https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/publications/Monocytes%20deposit%20migrasomes%20to%20promote%20embryonic%20angiogenesis.pdf) ] **( Cover Story )**
 
 1. Yizheng Wang#, Shuaixin Gao, Yuheng Liu, Dongju Wang, Boqi Liu, Dong Jiang, Catherine C. L. Wong, Yang Chen, **Li Yu\***. Retractosomes: small extracellular vesicles generated from broken-off retraction fibers. **Cell Res**. 2022 May;0,1-4. [ [PDF](https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/publications/Retractosomes%20-%20small%20extracellular%20vesicles%20generated%20from%20broken-off%20retraction%20fibers.pdf) ]
