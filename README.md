@@ -1,31 +1,115 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+# Li Yu Laboratory · Tsinghua University
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+[![Deploy](https://img.shields.io/badge/deploy-GitHub%20Pages-blue)](https://liyu-lab-tsinghua.github.io)
+[![Jekyll](https://img.shields.io/badge/jekyll-4.x-orange)](https://jekyllrb.com/)
+[![Status](https://img.shields.io/badge/version-3.0-purple)]()
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+Official website of **Li Yu Laboratory** at Tsinghua University — pioneering migrasome biology and cell communication research.
 
-# Instructions
+**Live Site** → [liyu-lab-tsinghua.github.io](https://liyu-lab-tsinghua.github.io)
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+---
 
-See more info at https://academicpages.github.io/
+## Quick Start
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+```bash
+git clone git@github.com:LiYu-Lab-Tsinghua/LiYu-Lab-Tsinghua.github.io.git
+cd LiYu-Lab-Tsinghua.github.io
+bundle install
+bundle exec jekyll serve
+# Open http://localhost:4000
+```
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+---
 
-# Changelog -- bugfixes and enhancements
+## Project Structure
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+```
+├── _config.yml                 # Site configuration
+├── _data/
+│   └── navigation.yml          # Navigation menu
+├── _pages/                     # Main pages
+│   ├── about.md                # Homepage
+│   ├── research.md             # Research overview
+│   ├── members.md              # Lab members
+│   ├── publications.md         # Publications list
+│   ├── protocols.html          # Lab protocols
+│   ├── covers.md               # Journal covers
+│   ├── gallery.md              # Photo gallery
+│   ├── join-us.md              # Recruitment
+│   └── news.html               # News archive
+├── _news/                      # News articles
+├── _protocols/                 # Protocol documents
+├── _layouts/                   # Page layouts
+├── _includes/                  # Reusable components
+├── _sass/                      # Stylesheets
+│   ├── _custom-variables.scss  # Design tokens & theme colors
+│   └── _custom-theme.scss      # Custom styles
+├── assets/
+│   ├── css/main.scss           # Main stylesheet entry
+│   ├── js/custom.js            # Interactive features
+│   └── fonts/                  # Font assets
+└── images/                     # Image assets
+```
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+---
+
+## Design System
+
+| Token | Value | Usage |
+|-------|-------|-------|
+| Primary | `#6B21D6` | Tsinghua Purple |
+| Secondary | `#0E8FEA` | Science Blue |
+| Accent | `#08A878` | Bio Green |
+
+- **Gradient**: 135° purple → blue across Hero, cards, stats
+- **Dark mode**: Auto-detected via `prefers-color-scheme`
+- **Typography**: System font stack with 1.6 line-height
+- **Spacing**: 4px base grid system
+- **Responsive**: Mobile-first, three breakpoints
+
+---
+
+## Content Management
+
+### Adding News
+Create `_news/YYYY-MM-DD-title.md`:
+```yaml
+---
+title: "News Title"
+date: 2026-04-28
+---
+Content...
+```
+
+### Updating Members
+Edit `_pages/members.md` — use the `member-card` template inside `.members-grid`.
+
+### Changing Colors
+Edit design tokens in `_sass/_custom-variables.scss`.
+
+---
+
+## Deployment
+
+Push to `master` branch — GitHub Actions builds and deploys automatically.
+
+```bash
+git add .
+git commit -m "Update"
+git push origin master
+```
+
+---
+
+## Tech Stack
+
+- **Static Generator**: Jekyll 4
+- **CSS**: SCSS (compressed)
+- **JavaScript**: Vanilla ES6
+- **Hosting**: GitHub Pages
+- **CI/CD**: GitHub Actions
+
+---
+
+**Maintained by** Li Yu Laboratory © Tsinghua University

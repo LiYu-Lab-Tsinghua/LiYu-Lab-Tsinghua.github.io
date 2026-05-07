@@ -1,41 +1,146 @@
 ---
 permalink: /
-title: "Migrasomes"
-excerpt: "About me"
+title: "Li Yu Laboratory"
+excerpt: "Exploring Migrasome Biology at Tsinghua University"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5f648f2c35d8020014989d48&product=inline-share-buttons" async="async"></script>
+<!-- Hero Section -->
+<section class="hero-section">
+  <div class="hero-container">
+    <div class="hero-content">
+      <div class="hero-badge">
+        <span class="badge-dot"></span>
+        Tsinghua University · School of Life Sciences
+      </div>
+      <h1 class="hero-title">
+        Exploring the <span class="gradient-text-inline">Migrasome</span> Frontier
+      </h1>
+      <p class="hero-subtitle">
+        We investigate the biogenesis, function, and pathophysiological roles of migrasomes — 
+        migration-dependent organelles discovered by our lab in 2014.
+      </p>
+      <div class="hero-actions">
+        <a href="/research/" class="btn-modern btn-hero-primary">Our Research →</a>
+        <a href="/members/" class="btn-modern btn-hero-secondary">Meet the Team</a>
+      </div>
+    </div>
+    <div class="hero-visual">
+      <div class="hero-molecule">
+        <div class="molecule-ring"></div>
+        <div class="molecule-ring"></div>
+        <div class="molecule-ring"></div>
+        <div class="molecule-dot"></div>
+        <div class="molecule-dot"></div>
+        <div class="molecule-dot"></div>
+        <div class="molecule-dot"></div>
+        <div class="molecule-dot"></div>
+        <div class="molecule-dot"></div>
+        <div class="molecule-dot"></div>
+        <div class="molecule-dot"></div>
+        <div class="molecule-center">🧬</div>
+      </div>
+    </div>
+  </div>
+</section>
 
-<br>
+<!-- Research Highlights -->
+<section class="research-highlights">
+  <h2 class="section-title">Research Focus</h2>
+  <p class="section-desc">
+    We investigate the biogenesis, function, and pathophysiological roles of migrasomes — migration-dependent organelles discovered by our lab in 2014.
+  </p>
+  <div class="highlights-grid">
+    <div class="highlight-card animate-on-scroll delay-1">
+      <div class="card-icon">&#x1F52C;</div>
+      <h3>Migrasome Discovery</h3>
+      <p>Discovered and named migrasomes in 2014. These migration-dependent vesicular structures mediate a novel form of intercellular communication.</p>
+    </div>
+    <div class="highlight-card animate-on-scroll delay-2">
+      <div class="card-icon">&#x1F9EC;</div>
+      <h3>Organ Morphogenesis</h3>
+      <p>Revealing how migrasomes deliver signaling molecules to orchestrate zebrafish organ development with spatial precision.</p>
+    </div>
+    <div class="highlight-card animate-on-scroll delay-3">
+      <div class="card-icon">&#x269B;&#xFE0F;</div>
+      <h3>Cell Communication</h3>
+      <p>Migrasomes integrate spatial, temporal, and chemical information to coordinate collective cell behaviors during development and disease.</p>
+    </div>
+    <div class="highlight-card animate-on-scroll delay-4">
+      <div class="card-icon">&#x1F4A1;</div>
+      <h3>Technology Innovation</h3>
+      <p>Developing cutting-edge imaging, biochemical, and genetic tools to dissect migrasome biology at molecular resolution.</p>
+    </div>
+  </div>
+</section>
 
-Our lab discovered and named migrasomes in 2014. We found that during cell migration, retraction fibers are pulled from the rear end of cells, and large vesicular structures grow on the retraction fibers. When the cell migrates away, the retraction fibers break and vesicles are left behind. Since the formation of these vesicles is migration-dependent, we named these structures as migrasomes. Migrasomes contain numerous luminal vesicles. Cellular contents such as luminal vesicles and cytosol can be released from the cell through migrasomes, a process we named as migracytosis. 
+<!-- What are Migrasomes -->
+<div class="page__content" style="max-width: 900px; margin: 0 auto; padding: 80px 24px;">
 
-<br>
+  <h2 style="text-align: center; margin-bottom: 8px;">What Are Migrasomes?</h2>
+  <p style="text-align: center; color: #71717A; max-width: 600px; margin: 0 auto 40px;">
+    Migration-dependent organelles that serve as packets of information with specific delivery addresses
+  </p>
 
-<center>
-<video width="600" autoplay="autoplay" controls>
-  <source src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/migrasome.mp4" type="video/mp4">
-  <object data="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/migrasome.mp4" width="600">
-  </object> 
-</video>
-</center>
+  <p>
+    Our lab discovered and named <strong>migrasomes</strong> in 2014. During cell migration, retraction fibers are pulled from the rear of migrating cells, and large vesicular structures grow on these fibers. When the cell migrates away, the retraction fibers break, leaving the vesicles behind. Since their formation depends on migration, we named these structures <em>migrasomes</em>. Cellular contents — including luminal vesicles, proteins, and mRNA — can be released from cells via migrasomes through a process we term <em>migracytosis</em>.
+  </p>
 
-<br>
+  <div style="text-align: center; margin: 40px 0;">
+    <video width="100%" style="max-width: 640px; border-radius: 12px; box-shadow: 0 4px 24px rgba(0,0,0,0.1);" autoplay loop muted playsinline controls>
+      <source src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/migrasome.mp4" type="video/mp4">
+    </video>
+  </div>
 
-Our recent work reveals that migrasomes play a key role in zebrafish organogenesis. We found that signaling molecules are packed into migrasomes and are released to defined locations by migrasomes, thus activating  surrounding cells. In this sense, migrasomes can integrate spatial, temporal and specific chemical information which is required for coordinating the behavior of a community of cells during a complicated biological process such as embryonic development, the immune response, tumor metastasis, angiogenesis… In short, a migrasome is a packet of information with a specific delivery address, which mediates a novel type of cell-cell communication.
+  <p>
+    Our recent work reveals that migrasomes play key roles in <strong>zebrafish organogenesis</strong>. Signaling molecules are packaged into migrasomes and released at defined locations, activating surrounding cells with spatiotemporal precision. In essence, a migrasome is a <strong>packet of information with a specific delivery address</strong> — mediating a novel type of cell-cell communication critical for embryonic development, immune responses, tumor metastasis, and angiogenesis.
+  </p>
 
-At the same time, migrasomes may also have other functions such as organelle quality control, lateral transfer of cellular contents and unconventional secretion.
+  <p>
+    Migrasomes also participate in organelle quality control (mitocytosis), lateral transfer of cellular contents, and unconventional secretion — expanding the functional repertoire of these remarkable organelles.
+  </p>
 
-<br>
+</div>
 
----
+<!-- Stats Section -->
+<section class="stats-section">
+  <div class="stats-grid">
+    <div class="stat-item animate-on-scroll delay-1">
+      <div class="stat-number">50+</div>
+      <div class="stat-label">Publications</div>
+    </div>
+    <div class="stat-item animate-on-scroll delay-2">
+      <div class="stat-number">10+</div>
+      <div class="stat-label">Years of Research</div>
+    </div>
+    <div class="stat-item animate-on-scroll delay-3">
+      <div class="stat-number">30+</div>
+      <div class="stat-label">Lab Members</div>
+    </div>
+    <div class="stat-item animate-on-scroll delay-4">
+      <div class="stat-number">2014</div>
+      <div class="stat-label">Year of Discovery</div>
+    </div>
+  </div>
+</section>
 
-&nbsp; **SHARE ON**
-
-<div class="sharethis-inline-share-buttons"></div>
-
-<br>
+<!-- Latest News -->
+<section class="latest-news">
+  <div class="section-header">
+    <h2>Latest News</h2>
+    <a href="/news/" class="view-all">View All &rarr;</a>
+  </div>
+  <div class="news-list">
+    {% assign recent_news = site.news | sort: 'date' | reverse | limit: 3 %}
+    {% for item in recent_news %}
+    <div class="news-item animate-on-scroll">
+      <div class="news-date">{{ item.date | date: "%B %d, %Y" }}</div>
+      <h3 class="news-title">{{ item.title }}</h3>
+      <p class="news-excerpt">{{ item.excerpt | strip_html | truncatewords: 30 }}</p>
+    </div>
+    {% endfor %}
+  </div>
+</section>

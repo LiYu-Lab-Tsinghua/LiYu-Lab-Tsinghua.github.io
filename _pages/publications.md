@@ -16,9 +16,9 @@ author_profile: true
 
 5.	Yiyang Han, **Li Yu\***. Calcium ions promote migrasome formation via synaptotagmin-1 [J], **Journal of Cell Biology**, 2024; 223(8):e202402060.
 
-6.	Tianlun Ding, Jinyao Ji, Weiying Zhang, Yuheng Liu, Boqi Liu, Yiyang Han, Chunlai Chen, **Li Yu\***. The phosphatidylinositol (4,5)-bisphosphate-Rab35 axis regulates migrasome formation [J], **Cell Research**, 2023; 33(8): 617-627. 
+6.	Tianlun Ding, Jinyao Ji, Weiying Zhang, Yuheng Liu, Boqi Liu, Yiyang Han, Chunlai Chen, **Li Yu\***. The phosphatidylinositol (4,5)-bisphosphate-Rab35 axis regulates migrasome formation [J], **Cell Research**, 2023; 33(8): 617-627.
 
-7.	Haisha Liang, Xinyu Ma, Yuanyuan Zhang, Yuheng Liu, Nan Liu, Weiying Zhang, Jianhui Chen, Boqi Liu, Wanqing Du, Xiaohui Liu, **Li Yu\***. The formation of migrasomes is initiated by the assembly of sphingomyelin synthase 2 foci at the leading edge of migrating cells [J], **Nature Cell Biology**, 2023; 25(8): 1173-1184. 
+7.	Haisha Liang, Xinyu Ma, Yuanyuan Zhang, Yuheng Liu, Nan Liu, Weiying Zhang, Jianhui Chen, Boqi Liu, Wanqing Du, Xiaohui Liu, **Li Yu\***. The formation of migrasomes is initiated by the assembly of sphingomyelin synthase 2 foci at the leading edge of migrating cells [J], **Nature Cell Biology**, 2023; 25(8): 1173-1184.
 
 8.	Guoxun Zhang#, Xiaopeng Li#, Yuanlong Zhang#, Xiaofei Han, Xinyang Li, Jinqiang Yu, Boqi Liu, **Jiamin Wu\***, **Li Yu\***, **Qionghai Dai\***. Bio-friendly long-term subcellular dynamic recording by self-supervised image enhancement microscopy [J]. **Nat Methods**, 2023; 20(12):1957-1970.
 

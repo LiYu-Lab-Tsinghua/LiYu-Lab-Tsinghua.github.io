@@ -1,2 +1,31 @@
+# Jekyll build output
 _site/
+.sass-cache/
+.jekyll-metadata/
 
+# Dependencies
+node_modules/
+vendor/bundle/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temporary files
+tmp/
+temp/

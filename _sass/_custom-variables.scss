@@ -1,0 +1,167 @@
+/* ==========================================================================
+   Li Yu Lab - Design System Variables
+   清华紫 x 科技蓝 主题色彩系统
+   ========================================================================== */
+
+/*
+   品牌色 - Tsinghua Purple
+   ========================================================================== */
+$tsinghua-purple: #6B21D6;
+$tsinghua-purple-dark: #4C17A5;
+$tsinghua-purple-darker: #37107A;
+$tsinghua-purple-light: #8B45E8;
+$tsinghua-purple-lighter: #B490F2;
+$tsinghua-purple-bg: #F5F0FF;
+
+/*
+   辅助色 - Science Blue
+   ========================================================================== */
+$science-blue: #0E8FEA;
+$science-blue-dark: #0A6BB0;
+$science-blue-light: #3DA8F5;
+$science-blue-lighter: #8FCEFA;
+$science-blue-bg: #F0F8FF;
+
+/*
+   点缀色 - Bio Green
+   ========================================================================== */
+$bio-green: #08A878;
+$bio-green-light: #34D399;
+$bio-green-bg: #F0FFF4;
+
+/*
+   功能色
+   ========================================================================== */
+$color-warning: #F59E0B;
+$color-danger: #DC2626;
+$color-success: $bio-green;
+$color-info: $science-blue;
+
+/*
+   渐变色系
+   ========================================================================== */
+$gradient-primary: linear-gradient(135deg, $tsinghua-purple 0%, $science-blue 100%);
+$gradient-primary-reverse: linear-gradient(135deg, $science-blue 0%, $tsinghua-purple 100%);
+$gradient-hero: linear-gradient(160deg, rgba(107, 33, 214, 0.97) 0%, rgba(14, 143, 234, 0.93) 60%, rgba(8, 168, 120, 0.88) 100%);
+$gradient-card: linear-gradient(180deg, rgba(107, 33, 214, 0.04) 0%, rgba(14, 143, 234, 0.06) 100%);
+$gradient-dark: linear-gradient(160deg, darken($tsinghua-purple, 15%) 0%, darken($science-blue, 18%) 100%);
+$gradient-text: linear-gradient(135deg, $tsinghua-purple 0%, $science-blue-light 100%);
+
+/*
+   中性色系统
+   ========================================================================== */
+$color-white: #FFFFFF;
+$color-gray-50: #FAFAFA;
+$color-gray-100: #F4F4F5;
+$color-gray-200: #E5E5E7;
+$color-gray-300: #D4D4D8;
+$color-gray-400: #A1A1AA;
+$color-gray-500: #71717A;
+$color-gray-600: #52525B;
+$color-gray-700: #3F3F46;
+$color-gray-800: #27272A;
+$color-gray-900: #18181B;
+
+/*
+   暗色模式
+   ========================================================================== */
+$dark-bg-primary: #0B0914;
+$dark-bg-secondary: #141125;
+$dark-bg-tertiary: #1E1935;
+$dark-bg-card: #1E1B35;
+$dark-border: #2E2960;
+$dark-text-primary: #F0EDFF;
+$dark-text-secondary: #C4BEF0;
+$dark-text-muted: #8B85C0;
+
+/*
+   排版系统
+   ========================================================================== */
+$font-weight-light: 300;
+$font-weight-normal: 400;
+$font-weight-medium: 500;
+$font-weight-semibold: 600;
+$font-weight-bold: 700;
+$font-weight-extrabold: 800;
+
+$line-height-tight: 1.25;
+$line-height-normal: 1.6;
+$line-height-relaxed: 1.75;
+
+/*
+   间距系统 (4px 基础网格)
+   ========================================================================== */
+$spacing-1: 0.25rem;   // 4px
+$spacing-2: 0.5rem;    // 8px
+$spacing-3: 0.75rem;   // 12px
+$spacing-4: 1rem;      // 16px
+$spacing-5: 1.25rem;   // 20px
+$spacing-6: 1.5rem;    // 24px
+$spacing-8: 2rem;      // 32px
+$spacing-10: 2.5rem;   // 40px
+$spacing-12: 3rem;     // 48px
+$spacing-16: 4rem;     // 64px
+$spacing-20: 5rem;     // 80px
+
+// 向后兼容的别名
+$spacing-xs: $spacing-1;
+$spacing-sm: $spacing-2;
+$spacing-md: $spacing-4;
+$spacing-lg: $spacing-6;
+$spacing-xl: $spacing-8;
+$spacing-2xl: $spacing-12;
+$spacing-3xl: $spacing-16;
+
+/*
+   圆角系统
+   ========================================================================== */
+$radius-sm: 6px;
+$radius-md: 8px;
+$radius-lg: 12px;
+$radius-xl: 16px;
+$radius-2xl: 24px;
+$radius-full: 9999px;
+
+/*
+   阴影系统
+   ========================================================================== */
+$shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+$shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.08), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+$shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.08), 0 4px 6px -4px rgba(0, 0, 0, 0.04);
+$shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.08), 0 8px 10px -6px rgba(0, 0, 0, 0.04);
+$shadow-2xl: 0 25px 50px -12px rgba(0, 0, 0, 0.15);
+
+// 品牌色阴影
+$shadow-purple: 0 10px 40px -10px rgba(107, 33, 214, 0.4);
+$shadow-blue: 0 10px 40px -10px rgba(14, 143, 234, 0.4);
+
+/*
+   过渡动画
+   ========================================================================== */
+$transition-fast: 150ms cubic-bezier(0.4, 0, 0.2, 1);
+$transition-base: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+$transition-slow: 400ms cubic-bezier(0.4, 0, 0.2, 1);
+
+/*
+   Z-index 层级
+   ========================================================================== */
+$z-dropdown: 1000;
+$z-sticky: 1020;
+$z-fixed: 1030;
+$z-modal: 1050;
+$z-tooltip: 1070;
+
+/*
+   容器宽度
+   ========================================================================== */
+$container-max-width: 1200px;
+$container-narrow: 860px;
+$container-wide: 1400px;
+
+/*
+   响应式断点
+   ========================================================================== */
+$breakpoint-sm: 640px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 1024px;
+$breakpoint-xl: 1280px;
