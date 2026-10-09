@@ -91,7 +91,7 @@ redirect_from:
 
   <div style="text-align: center; margin: 40px 0;">
     <video width="100%" style="max-width: 640px; border-radius: 12px; box-shadow: 0 4px 24px rgba(0,0,0,0.1);" autoplay loop muted playsinline controls>
-      <source src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/migrasome.mp4" type="video/mp4">
+      <source src="/figures/main/migrasome.mp4" type="video/mp4">
     </video>
   </div>
 

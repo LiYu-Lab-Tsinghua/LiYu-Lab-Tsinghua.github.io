@@ -32,7 +32,7 @@ redirect_from:
 
 <div class="members-grid">
   <div class="member-card">
-    <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Li Yu.png" alt="Li Yu" class="member-photo">
+    <img src="/figures/Li%20Yu.png" alt="Li Yu" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Li Yu &nbsp; 俞 立</h3>
       <p class="member-role">Principal Investigator</p>
@@ -65,7 +65,7 @@ redirect_from:
 
 <div class="members-grid">
   <div class="member-card">
-    <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Dachuan Zhang.jpg" alt="Dachuan Zhang" class="member-photo">
+    <img src="/figures/members/Dachuan Zhang.jpg" alt="Dachuan Zhang" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Dachuan Zhang &nbsp; 张大川</h3>
       <p class="member-role">Postdoctoral Fellow</p>
@@ -73,7 +73,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Wanqing Du.jpg" alt="Wanqing Du" class="member-photo">
+    <img src="/figures/members/Wanqing Du.jpg" alt="Wanqing Du" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Wanqing Du &nbsp; 杜万清</h3>
       <p class="member-role">Postdoctoral Fellow</p>
@@ -81,7 +81,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Cuifang Zhang.jpg" alt="Cuifang Zhang" class="member-photo">
+    <img src="/figures/members/Cuifang Zhang.jpg" alt="Cuifang Zhang" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Cuifang Zhang &nbsp; 张翠芳</h3>
       <p class="member-role">Postdoctoral Fellow</p>
@@ -96,7 +96,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Jinqiang Yu.jpg" alt="Jinqiang Yu" class="member-photo">
+    <img src="/figures/members/Jinqiang Yu.jpg" alt="Jinqiang Yu" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Jinqiang Yu &nbsp; 俞金强</h3>
       <p class="member-role">Postdoctoral Fellow</p>
@@ -104,7 +104,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Baiqi Liu.jpg" alt="Boqi Liu" class="member-photo">
+    <img src="/figures/members/Boqi%20Liu.jpg" alt="Boqi Liu" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Boqi Liu &nbsp; 刘柏岐</h3>
       <p class="member-role">Postdoctoral Fellow</p>
@@ -112,7 +112,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Shunbang Yu.jpg" alt="Shunbang Yu" class="member-photo">
+    <img src="/figures/members/Shunbang Yu.jpg" alt="Shunbang Yu" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Shunbang Yu &nbsp; 余舜邦</h3>
       <p class="member-role">Postdoctoral Fellow</p>
@@ -123,7 +123,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Jinzhao%20He.jpg" alt="Jinzhao He" class="member-photo">
+    <img src="/figures/members/Jinzhao He.jpg" alt="Jinzhao He" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Jinzhao He &nbsp; 贺巾钊</h3>
       <p class="member-role">Postdoctoral Fellow</p>
@@ -134,7 +134,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Dandan Huang.jpg" alt="Dandan Huang" class="member-photo">
+    <img src="/figures/members/Dandan Huang.jpg" alt="Dandan Huang" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Dandan Huang &nbsp; 黄丹丹</h3>
       <p class="member-role">Postdoctoral Fellow</p>
@@ -162,7 +162,7 @@ redirect_from:
 
 <div class="members-grid">
   <div class="member-card">
-    <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Dongju Wang.jpg" alt="Dongju Wang" class="member-photo">
+    <img src="/figures/members/Dongju Wang.jpg" alt="Dongju Wang" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Dongju Wang &nbsp; 王东锔</h3>
       <p class="member-role">Ph.D. Student</p>
@@ -170,7 +170,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Yizheng Wang.jpg" alt="Yizheng Wang" class="member-photo">
+    <img src="/figures/members/Yizheng Wang.jpg" alt="Yizheng Wang" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Yizheng Wang &nbsp; 王懿峥</h3>
       <p class="member-role">Ph.D. Student</p>
@@ -178,7 +178,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Di Lu.jpg" alt="Di Lu" class="member-photo">
+    <img src="/figures/members/Di Lu.jpg" alt="Di Lu" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Di Lu &nbsp; 陆 娣</h3>
       <p class="member-role">Ph.D. Student</p>
@@ -193,7 +193,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Xuan Wang.jpg" alt="Xuan Wang" class="member-photo">
+    <img src="/figures/members/Xuan Wang.jpg" alt="Xuan Wang" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Xuan Wang &nbsp; 王 暄</h3>
       <p class="member-role">Ph.D. Student</p>
@@ -208,7 +208,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Minghui Shi.jpg" alt="Minghui Shi" class="member-photo">
+    <img src="/figures/members/Minghui Shi.jpg" alt="Minghui Shi" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Minghui Shi &nbsp; 史明慧</h3>
       <p class="member-role">Ph.D. Student</p>
@@ -223,7 +223,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Yuhan Xiang.jpg" alt="Yuhan Xiang" class="member-photo">
+    <img src="/figures/members/Yuhan Xiang.jpg" alt="Yuhan Xiang" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Yuhan Xiang &nbsp; 项雨涵</h3>
       <p class="member-role">Ph.D. Student</p>
@@ -248,7 +248,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Yuheng%20Liu.jpg" alt="Yuheng Liu" class="member-photo">
+    <img src="/figures/members/Yuheng Liu.jpg" alt="Yuheng Liu" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Yuheng Liu &nbsp; 刘宇恒</h3>
       <p class="member-role">Ph.D. Student</p>
@@ -259,7 +259,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Wenkang Zhao.jpg" alt="Wenkang Zhao" class="member-photo">
+    <img src="/figures/members/Wenkang Zhao.jpg" alt="Wenkang Zhao" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Wenkang Zhao &nbsp; 赵文康</h3>
       <p class="member-role">Ph.D. Student</p>
@@ -267,7 +267,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Yi%20Zheng.jpg" alt="Yi Zheng" class="member-photo">
+    <img src="/figures/members/Yi Zheng.jpg" alt="Yi Zheng" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Yi Zheng &nbsp; 郑 羿</h3>
       <p class="member-role">Ph.D. Student</p>
@@ -278,7 +278,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Xulin Sun.jpg" alt="Xulin Sun" class="member-photo">
+    <img src="/figures/members/Xulin Sun.jpg" alt="Xulin Sun" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Xulin Sun &nbsp; 孙旭林</h3>
       <p class="member-role">Ph.D. Student</p>
@@ -289,7 +289,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Yining Chen.jpg" alt="Yining Chen" class="member-photo">
+    <img src="/figures/members/Yining Chen.jpg" alt="Yining Chen" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Yining Chen &nbsp; 陈怡宁</h3>
       <p class="member-role">Ph.D. Student</p>
@@ -300,7 +300,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/RenXiang Xie.jpg" alt="Renxiang Xie" class="member-photo">
+    <img src="/figures/members/RenXiang Xie.jpg" alt="Renxiang Xie" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Renxiang Xie &nbsp; 谢任翔</h3>
       <p class="member-role">Ph.D. Student</p>
@@ -311,7 +311,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Haohao Jia.jpg" alt="Haohao Jia" class="member-photo">
+    <img src="/figures/members/Haohao Jia.jpg" alt="Haohao Jia" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Haohao Jia &nbsp; 贾皓昊</h3>
       <p class="member-role">Ph.D. Student</p>
@@ -322,7 +322,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Xiyuan Liu.jpg" alt="Siyuan Liu" class="member-photo">
+    <img src="/figures/members/Xiyuan Liu.jpg" alt="Siyuan Liu" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Siyuan Liu &nbsp; 刘思远</h3>
       <p class="member-role">Ph.D. Student</p>
@@ -350,7 +350,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Haisha Liang.jpg" alt="Haisha Liang" class="member-photo">
+    <img src="/figures/members/Haisha Liang.jpg" alt="Haisha Liang" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Haisha Liang &nbsp; 梁海莎</h3>
       <p class="member-role">Research Assistant</p>
@@ -396,7 +396,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Yang Chen.jpg" alt="Yang Chen" class="member-photo">
+    <img src="/figures/members/Yang Chen.jpg" alt="Yang Chen" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Yang Chen &nbsp; 陈 扬</h3>
       <p class="member-role">PI, Peking University School of Basic Medical Sciences</p>
@@ -506,7 +506,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Daxiao Sun.jpeg" alt="Daxiao Sun" class="member-photo">
+    <img src="/figures/members/Daxiao Sun.jpeg" alt="Daxiao Sun" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Daxiao Sun &nbsp; 孙大晓</h3>
       <p class="member-role">Postdoc, MPI-CBG & PoL, TU Dresden</p>
@@ -518,7 +518,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Danni Wu.jpg" alt="Danni Wu" class="member-photo">
+    <img src="/figures/members/Danni Wu.jpg" alt="Danni Wu" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Danni Wu &nbsp; 伍丹妮</h3>
       <p class="member-role">Section Chief, Chongqing Science and Technology Bureau</p>
@@ -557,7 +557,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Mingli Zhu.jpg" alt="Mingli Zhu" class="member-photo">
+    <img src="/figures/members/Mingli Zhu.jpg" alt="Mingli Zhu" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Mingli Zhu &nbsp; 祝明莉</h3>
       <p class="member-role">Alumni</p>
@@ -568,7 +568,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Yuwei Huang.jpg" alt="Yuwei Huang" class="member-photo">
+    <img src="/figures/members/Yuwei Huang.jpg" alt="Yuwei Huang" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Yuwei Huang &nbsp; 黄雨薇</h3>
       <p class="member-role">Alumni</p>
@@ -606,7 +606,7 @@ redirect_from:
 
 <div class="members-grid">
   <div class="member-card">
-    <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Wenhao%20Song.png" alt="Wenhao Song" class="member-photo">
+    <img src="/figures/members/Wenhao Song.png" alt="Wenhao Song" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Wenhao Song &nbsp; 宋文豪</h3>
       <p class="member-role">Senior Student, Tsinghua University</p>
@@ -617,7 +617,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Xueqing%20Li.jpg" alt="Xueqing Li" class="member-photo">
+    <img src="/figures/members/Xueqing Li.jpg" alt="Xueqing Li" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Xueqing Li &nbsp; 李雪晴</h3>
       <p class="member-role">Senior Student, SUN YAT-SEN UNIVERSITY</p>
@@ -628,7 +628,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/Han%20Zhang.jpg" alt="Han Zhang" class="member-photo">
+    <img src="/figures/members/Han Zhang.jpg" alt="Han Zhang" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Han Zhang &nbsp; 张 涵</h3>
       <p class="member-role">Senior Student</p>

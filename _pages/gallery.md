@@ -13,27 +13,27 @@ redirect_from:
 
 ## *Migracytosis in Vitro*
 
-<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/migrasome.jpg" width="800" />
+<img src="/figures/gallery/migrasome.jpg" width="800" />
 
-<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/migrasome-2.png" width="800" />
+<img src="/figures/gallery/migrasome-2.png" width="800" />
 
 <br>
 
 ## *A Migrasome Filled with Vesicles*
 
-<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/vesicles.png" width="800" />
+<img src="/figures/gallery/vesicles.png" width="800" />
 
 <br>
 
 ## *Zebrafish Embryonic Cells Produce Migrasomes in Vivo*
 
-<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/zebrafish-migrasome.png" width="800" />
+<img src="/figures/gallery/zebrafish-migrasome.png" width="800" />
 
 <br>
 
 ## *ER Whorl*
 
-<img src="https://liyulab-tsinghua.oss-cn-beijing.aliyuncs.com/img/ER-whorl.png" width="800" />
+<img src="/figures/gallery/ER-whorl.png" width="800" />
 
 ---
 

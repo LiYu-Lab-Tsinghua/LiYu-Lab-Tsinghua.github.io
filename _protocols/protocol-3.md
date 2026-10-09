@@ -20,6 +20,6 @@ Blood samples of normal donors were collected for research purposes in 6-ml proc
 
 ## Reference
 
-[Supplementary data](https://github.com/LiYuLab/figures-for-liyu-lab-page/raw/master/protocols/41421_2019_93_MOESM1_ESM.pdf) of
+[Supplementary data](/figures/protocols/41421_2019_93_MOESM1_ESM.pdf) of
 
 Zhao X, Lei Y, Zheng J, et al. Identification of markers for migrasome detection[J]. Cell discovery, 2019, 5(1): 1-4.
