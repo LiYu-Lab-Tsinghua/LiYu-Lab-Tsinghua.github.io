@@ -523,7 +523,7 @@ redirect_from:
     <img src="/figures/members/NaMi.png" alt="Na Mi" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Na Mi &nbsp; 米 娜</h3>
-      <p class="member-role">Associate Professor, Xinjiang Medical University</p>
+      <p class="member-role">Professor, Xinjiang Medical University</p>
     </div>
   </div>
 
@@ -571,6 +571,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
+    <img src="/figures/members/ChongWang.png" alt="Chong Wang" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Chong Wang &nbsp; 王 冲</h3>
       <p class="member-role">Director, Fujian Nanping Natural Resources Administration</p>
