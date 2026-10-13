@@ -470,9 +470,10 @@ redirect_from:
 
 <div class="members-grid">
   <div class="member-card">
+    <img src="/figures/members/Dong%20Jiang.png" alt="Dong Jiang" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Dong Jiang &nbsp; 姜 东</h3>
-      <p class="member-role">Investigator, Zhejiang University</p>
+      <p class="member-role">Principal Investigator, Zhejiang University</p>
     </div>
   </div>
 
@@ -511,6 +512,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
+    <img src="/figures/members/Yueguang%20Rong.png" alt="Yueguang Rong" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Yueguang Rong &nbsp; 荣岳光</h3>
       <p class="member-role">Professor, University of Macau</p>
@@ -518,6 +520,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
+    <img src="/figures/members/Na%20Mi.png" alt="Na Mi" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Na Mi &nbsp; 米 娜</h3>
       <p class="member-role">Associate Professor, Xinjiang Medical University</p>
@@ -525,13 +528,15 @@ redirect_from:
   </div>
 
   <div class="member-card">
+    <img src="/figures/members/Cong%20Yi.png" alt="Cong Yi" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Cong Yi &nbsp; 易 聪</h3>
-      <p class="member-role">Investigator, Zhejiang University</p>
+      <p class="member-role">Principal Investigator, Zhejiang University</p>
     </div>
   </div>
 
   <div class="member-card">
+    <img src="/figures/members/Yanyang%20Wu.png" alt="Yanyang Wu" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Yanyang Wu &nbsp; 吴艳阳</h3>
       <p class="member-role">Professor, Hunan Agricultural University</p>
@@ -539,7 +544,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Yang Chen.jpg" alt="Yang Chen" class="member-photo">
+    <img src="/figures/members/Yang%20Chen.png" alt="Yang Chen" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Yang Chen &nbsp; 陈 扬</h3>
       <p class="member-role">Associate Investigator, Peking University Health Science Center</p>
@@ -551,6 +556,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
+    <img src="/figures/members/Junya%20Peng.png" alt="Junya Peng" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Junya Peng &nbsp; 彭俊雅</h3>
       <p class="member-role">Research Associate, Peking Union Medical College Hospital</p>
@@ -572,6 +578,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
+    <img src="/figures/members/Jing%20Zhu.png" alt="Jing Zhu" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Jing Zhu &nbsp; 朱 婧</h3>
       <p class="member-role">Research Associate, Shanghai Jiao Tong University</p>
@@ -600,6 +607,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
+    <img src="/figures/members/Jingxiang%20Zheng.jpg" alt="Jingxiang Zheng" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Jingxiang Zheng &nbsp; 郑竞翔</h3>
       <p class="member-role">Shanghai Yaoyi Technology Co., Ltd.</p>
@@ -607,6 +615,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
+    <img src="/figures/members/Jingjing%20Tong.png" alt="Jingjing Tong" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Jingjing Tong &nbsp; 仝晶晶</h3>
       <p class="member-role">Professor, Central China Normal University</p>
@@ -621,13 +630,15 @@ redirect_from:
   </div>
 
   <div class="member-card">
+    <img src="/figures/members/Liang%20Ma.png" alt="Liang Ma" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Liang Ma &nbsp; 马 亮</h3>
-      <p class="member-role">Investigator, Zhejiang University</p>
+      <p class="member-role">Principal Investigator, Zhejiang University</p>
     </div>
   </div>
 
   <div class="member-card">
+    <img src="/figures/members/Meisheng%20Ma.jpg" alt="Meisheng Ma" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Meisheng Ma &nbsp; 马梅生</h3>
       <p class="member-role">Professor, Huazhong University of Science and Technology</p>
@@ -642,6 +653,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
+    <img src="/figures/members/Fang%20Xu.png" alt="Fang Xu" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Fang Xu &nbsp; 徐 芳</h3>
       <p class="member-role">Professor, Guangzhou Medical University</p>
@@ -649,10 +661,10 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Daxiao Sun.jpeg" alt="Daxiao Sun" class="member-photo">
+    <img src="/figures/members/Daxiao%20Sun.png" alt="Daxiao Sun" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Daxiao Sun &nbsp; 孙大晓</h3>
-      <p class="member-role">Investigator, Shenzhen Medical Academy of Research and Translation</p>
+      <p class="member-role">Principal Investigator, Shenzhen Medical Academy of Research and Translation</p>
       <p class="member-email">
         <strong>Research:</strong> Phase separation on 2D surfaces, Assembly of tight junctions, Cell polarity, p62-mediated autophagy<br>
         <a href="mailto:dsun@mpi-cbg.de">dsun@mpi-cbg.de</a>
@@ -693,6 +705,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
+    <img src="/figures/members/Rui%20Chen.png" alt="Rui Chen" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Rui Chen &nbsp; 陈 锐</h3>
       <p class="member-role">Professor, Wuhan University</p>
