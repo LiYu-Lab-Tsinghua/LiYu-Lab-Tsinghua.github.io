@@ -559,7 +559,7 @@ redirect_from:
     <img src="/figures/members/JunyaPeng.png" alt="Junya Peng" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Junya Peng &nbsp; 彭俊雅</h3>
-      <p class="member-role">Research Associate, Peking Union Medical College Hospital</p>
+      <p class="member-role">Assistant Investigators, Peking Union Medical College Hospital</p>
     </div>
   </div>
 
@@ -581,7 +581,7 @@ redirect_from:
     <img src="/figures/members/JingZhu.jpg" alt="Jing Zhu" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Jing Zhu &nbsp; 朱 婧</h3>
-      <p class="member-role">Research Associate, Shanghai Jiao Tong University</p>
+      <p class="member-role">Assistant Investigators, Shanghai Jiao Tong University</p>
     </div>
   </div>
 
