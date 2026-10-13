@@ -716,7 +716,10 @@ a {
     .member-photo {
       display: block;
       width: 100%;
+      aspect-ratio: 3 / 4;
       height: auto;
+      object-fit: cover;
+      object-position: center 15%;
       background: $gradient-primary;
       transition: transform $transition-slow;
     }
