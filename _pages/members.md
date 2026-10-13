@@ -69,6 +69,9 @@ redirect_from:
     <div class="member-info">
       <h3 class="member-name">Wanqing Du &nbsp; 杜万清</h3>
       <p class="member-role">Associate Investigator</p>
+      <p class="member-email">
+        <a href="mailto:xiaoliur0708@163.com">xiaoliur0708@163.com</a>
+      </p>
     </div>
   </div>
 </div>
@@ -87,6 +90,9 @@ redirect_from:
     <div class="member-info">
       <h3 class="member-name">Di Lu &nbsp; 陆 娣</h3>
       <p class="member-role">Assistant Investigator</p>
+      <p class="member-email">
+        <a href="mailto:ld17@tsinghua.org.cn">ld17@tsinghua.org.cn</a>
+      </p>
     </div>
   </div>
 
@@ -95,6 +101,9 @@ redirect_from:
     <div class="member-info">
       <h3 class="member-name">Dachuan Zhang &nbsp; 张大川</h3>
       <p class="member-role">Assistant Investigator</p>
+      <p class="member-email">
+        <a href="mailto:zhangdachuan1985@163.com">zhangdachuan1985@163.com</a>
+      </p>
     </div>
   </div>
 
@@ -103,6 +112,9 @@ redirect_from:
     <div class="member-info">
       <h3 class="member-name">Jinqiang Yu &nbsp; 俞金强</h3>
       <p class="member-role">Assistant Investigator</p>
+      <p class="member-email">
+        <a href="mailto:yu-jin-qiang@163.com">yu-jin-qiang@163.com</a>
+      </p>
     </div>
   </div>
 </div>
@@ -122,7 +134,7 @@ redirect_from:
       <h3 class="member-name">Yi Zheng &nbsp; 郑 羿</h3>
       <p class="member-role">Postdoctoral Fellow</p>
       <p class="member-email">
-        <a href="mailto:vikki_34@163.com">vikki_34@163.com</a>
+        <a href="mailto:yizheng@mail.tsinghua.edu.cn">yizheng@mail.tsinghua.edu.cn</a>
       </p>
     </div>
   </div>
@@ -133,7 +145,7 @@ redirect_from:
       <h3 class="member-name">Yuhan Xiang &nbsp; 项雨涵</h3>
       <p class="member-role">Postdoctoral Fellow</p>
       <p class="member-email">
-        <a href="mailto:xyh19@mails.tsinghua.edu.cn">xyh19@mails.tsinghua.edu.cn</a>
+        <a href="mailto:hihi_xyh@163.com">hihi_xyh@163.com</a>
       </p>
     </div>
   </div>
@@ -150,10 +162,13 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Boqi%20Liu.jpg" alt="Boqi Liu" class="member-photo">
+    <img src="/figures/members/Boqi Liu.jpg" alt="Boqi Liu" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Boqi Liu &nbsp; 刘柏岐</h3>
       <p class="member-role">Postdoctoral Fellow</p>
+      <p class="member-email">
+        <a href="mailto:345863922@qq.com">345863922@qq.com</a>
+      </p>
     </div>
   </div>
 
@@ -162,13 +177,20 @@ redirect_from:
     <div class="member-info">
       <h3 class="member-name">Minghui Shi &nbsp; 史明慧</h3>
       <p class="member-role">Postdoctoral Fellow</p>
+      <p class="member-email">
+        <a href="mailto:15584163213@163.com">15584163213@163.com</a>
+      </p>
     </div>
   </div>
 
   <div class="member-card">
+  <img src="/figures/members/Lin Shi.jpg" alt="Lin Shi" class="member-photo">
     <div class="member-info">
-      <h3 class="member-name">Lin Shi</h3>
+      <h3 class="member-name">Lin Shi &nbsp; 石林</h3>
       <p class="member-role">Postdoctoral Fellow</p>
+      <p class="member-email">
+        <a href="mailto:linshi@mail.tsinghua.edu.cn">linshi@mail.tsinghua.edu.cn</a>
+      </p>
     </div>
   </div>
 
@@ -176,13 +198,19 @@ redirect_from:
     <div class="member-info">
       <h3 class="member-name">Yiqun Luo &nbsp; 罗逸群</h3>
       <p class="member-role">Postdoctoral Fellow</p>
+      <p class="member-email">
+        <a href="mailto:luoyq13@qq.com">luoyq13@qq.com</a>
+      </p>
     </div>
   </div>
 
   <div class="member-card">
     <div class="member-info">
-      <h3 class="member-name">Jiaran Lin</h3>
+      <h3 class="member-name">Jiaran Lin &nbsp; 林家冉</h3>
       <p class="member-role">Postdoctoral Fellow</p>
+      <p class="member-email">
+        <a href="mailto:Rachellam11@outlook.com">Rachellam11@outlook.com</a>
+      </p>
     </div>
   </div>
 
@@ -198,9 +226,13 @@ redirect_from:
   </div>
 
   <div class="member-card">
+  <img src="/figures/members/Jiale Wei.jpg" alt="Jiale Wei" class="member-photo">
     <div class="member-info">
-      <h3 class="member-name">Jiale Wei</h3>
+      <h3 class="member-name">Jiale Wei &nbsp; 魏家乐</h3>
       <p class="member-role">Postdoctoral Fellow</p>
+      <p class="member-email">
+        <a href="mailto:weijiale0119@163.com">weijiale0119@163.com</a>
+      </p>
     </div>
   </div>
 
@@ -209,13 +241,19 @@ redirect_from:
     <div class="member-info">
       <h3 class="member-name">Dongju Wang &nbsp; 王东锔</h3>
       <p class="member-role">Postdoctoral Fellow</p>
+      <p class="member-email">
+        <a href="mailto:orangenewt@163.com">orangenewt@163.com</a>
+      </p>
     </div>
   </div>
 
   <div class="member-card">
     <div class="member-info">
-      <h3 class="member-name">Ya Yan</h3>
+      <h3 class="member-name">Ya Yan &nbsp; 严娅</h3>
       <p class="member-role">Postdoctoral Fellow</p>
+      <p class="member-email">
+        <a href="mailto:yanhs2019@163.com">yanhs2019@163.com</a>
+      </p>
     </div>
   </div>
 
@@ -224,6 +262,9 @@ redirect_from:
     <div class="member-info">
       <h3 class="member-name">Xuan Wang &nbsp; 王 暄</h3>
       <p class="member-role">Postdoctoral Fellow</p>
+      <p class="member-email">
+        <a href="mailto:2642314960@qq.com">2642314960@qq.com</a>
+      </p>
     </div>
   </div>
 
@@ -231,13 +272,19 @@ redirect_from:
     <div class="member-info">
       <h3 class="member-name">Mingyi Gao &nbsp; 高明一</h3>
       <p class="member-role">Postdoctoral Fellow</p>
+      <p class="member-email">
+        <a href="mailto:941112565@qq.com">941112565@qq.com</a>
+      </p>
     </div>
   </div>
 
   <div class="member-card">
     <div class="member-info">
-      <h3 class="member-name">Filippos</h3>
+      <h3 class="member-name">Filippos &nbsp; 菲利普</h3>
       <p class="member-role">Postdoctoral Fellow</p>
+      <p class="member-email">
+        <a href="mailto:fst@mail.tsinghua.edu.cn">fst@mail.tsinghua.edu.cn</a>
+      </p>
     </div>
   </div>
 
@@ -245,6 +292,9 @@ redirect_from:
     <div class="member-info">
       <h3 class="member-name">Xiaopeng Li &nbsp; 李晓鹏</h3>
       <p class="member-role">Postdoctoral Fellow</p>
+      <p class="member-email">
+        <a href="mailto:lxp0324@foxmail.com">lxp0324@foxmail.com</a>
+      </p>
     </div>
   </div>
 </div>
@@ -264,7 +314,7 @@ redirect_from:
       <h3 class="member-name">Yining Chen &nbsp; 陈怡宁</h3>
       <p class="member-role">Ph.D. Student</p>
       <p class="member-email">
-        <a href="mailto:lscyn0805@126.com">lscyn0805@126.com</a>
+        <a href="mailto:cyn21@mails.tsinghua.edu.cn">cyn21@mails.tsinghua.edu.cn</a>
       </p>
     </div>
   </div>
@@ -275,7 +325,7 @@ redirect_from:
       <h3 class="member-name">Renxiang Xie &nbsp; 谢任翔</h3>
       <p class="member-role">Ph.D. Student</p>
       <p class="member-email">
-        <a href="mailto:xrx21@mails.tsinghua.edu.cn">xrx21@mails.tsinghua.edu.cn</a>
+        <a href="mailto:595809700@qq.com">595809700@qq.com</a>
       </p>
     </div>
   </div>
@@ -286,7 +336,7 @@ redirect_from:
       <h3 class="member-name">Xulin Sun &nbsp; 孙旭林</h3>
       <p class="member-role">Ph.D. Student</p>
       <p class="member-email">
-        <a href="mailto:wencsxl@163.com">wencsxl@163.com</a>
+        <a href="mailto:sunxl21@mails.tsinghua.edu.cn">sunxl21@mails.tsinghua.edu.cn</a>
       </p>
     </div>
   </div>
@@ -308,22 +358,30 @@ redirect_from:
       <h3 class="member-name">Haohao Jia &nbsp; 贾皓昊</h3>
       <p class="member-role">Ph.D. Student</p>
       <p class="member-email">
-        <a href="mailto:jiahh22@mails.tsinghua.edu.cn">jiahh22@mails.tsinghua.edu.cn</a>
+        <a href="mailto:Humphrey_jia@163.com">Humphrey_jia@163.com</a>
       </p>
     </div>
   </div>
 
   <div class="member-card">
+    <img src="/figures/members/Ruikang Zhao.jpg" alt="Ruikang Zhao" class="member-photo">
     <div class="member-info">
-      <h3 class="member-name">Ruikang Zhao</h3>
+      <h3 class="member-name">Ruikang Zhao &nbsp; 赵睿康</h3>
       <p class="member-role">Ph.D. Student</p>
+      <p class="member-email">
+        <a href="mailto:zrk24@mails.tsinghua.edu.cn">zrk24@mails.tsinghua.edu.cn</a>
+      </p>
     </div>
   </div>
 
   <div class="member-card">
+    <img src="/figures/members/Pushu Wang.jpg" alt="Pushu Wang" class="member-photo">
     <div class="member-info">
-      <h3 class="member-name">Pushu Wang</h3>
+      <h3 class="member-name">Pushu Wang &nbsp; 王谱术</h3>
       <p class="member-role">Ph.D. Student</p>
+      <p class="member-email">
+        <a href="mailto:wangps25@mails.tsinghua.edu.cn">wangps25@mails.tsinghua.edu.cn</a>
+      </p>
     </div>
   </div>
 
@@ -340,22 +398,32 @@ redirect_from:
 
   <div class="member-card">
     <div class="member-info">
-      <h3 class="member-name">Jinhao Liu</h3>
+      <h3 class="member-name">Jinhao Liu &nbsp; 刘金澔</h3>
       <p class="member-role">Ph.D. Student</p>
+      <p class="member-email">
+        <a href="mailto:jeremyliu755@foxmail.com">jeremyliu755@foxmail.com</a>
+      </p>
+    </div>
+  </div>
+
+  <div class="member-card">
+  <img src="/figures/members/Yuntian Yang.jpg" alt="Yuntian Yang" class="member-photo">
+    <div class="member-info">
+      <h3 class="member-name">Yuntian Yang &nbsp; 杨云天</h3>
+      <p class="member-role">Ph.D. Student</p>
+      <p class="member-email">
+        <a href="mailto:yang-yt24@mails.tsinghua.edu.cn">yang-yt24@mails.tsinghua.edu.cn</a>
+      </p>
     </div>
   </div>
 
   <div class="member-card">
     <div class="member-info">
-      <h3 class="member-name">Yuntian Yang</h3>
+      <h3 class="member-name">Sihan Chen &nbsp; 陈思涵</h3>
       <p class="member-role">Ph.D. Student</p>
-    </div>
-  </div>
-
-  <div class="member-card">
-    <div class="member-info">
-      <h3 class="member-name">Sihan Chen</h3>
-      <p class="member-role">Ph.D. Student</p>
+      <p class="member-email">
+        <a href="mailto:chensh25@mails.tsinghua.edu.cn">chensh25@mails.tsinghua.edu.cn</a>
+      </p>
     </div>
   </div>
 
@@ -365,7 +433,7 @@ redirect_from:
       <h3 class="member-name">Siyuan Liu &nbsp; 刘思远</h3>
       <p class="member-role">Ph.D. Student</p>
       <p class="member-email">
-        <a href="mailto:sy-liu22@mails.tsinghua.edu.cn">sy-liu22@mails.tsinghua.edu.cn</a>
+        <a href="mailto:2471203777@qq.com">2471203777@qq.com</a>
       </p>
     </div>
   </div>
@@ -375,13 +443,19 @@ redirect_from:
     <div class="member-info">
       <h3 class="member-name">Wenkang Zhao &nbsp; 赵文康</h3>
       <p class="member-role">Ph.D. Student</p>
+      <p class="member-email">
+        <a href="mailto:zwkthu@foxmail.com">zwkthu@foxmail.com</a>
+      </p>
     </div>
   </div>
 
   <div class="member-card">
     <div class="member-info">
-      <h3 class="member-name">Gulinuer</h3>
+      <h3 class="member-name">Gulinuer &nbsp; 古丽努尔</h3>
       <p class="member-role">Ph.D. Student</p>
+      <p class="member-email">
+        <a href="mailto:gulinuerr@163.com">gulinuerr@163.com</a>
+      </p>
     </div>
   </div>
 </div>
