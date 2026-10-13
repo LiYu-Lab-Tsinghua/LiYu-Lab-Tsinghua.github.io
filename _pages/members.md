@@ -578,7 +578,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/JingZhu.png" alt="Jing Zhu" class="member-photo">
+    <img src="/figures/members/JingZhu.jpg" alt="Jing Zhu" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Jing Zhu &nbsp; 朱 婧</h3>
       <p class="member-role">Research Associate, Shanghai Jiao Tong University</p>
