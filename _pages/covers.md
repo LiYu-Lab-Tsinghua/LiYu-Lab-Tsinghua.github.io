@@ -11,27 +11,27 @@ redirect_from:
 
 <br>
 
-<img src="/figures/covers/Cuifang Zhang NCB 2022.png" width=600>
+<img src="/figures/covers/CuifangZhangNCB2022.png" width=600>
 
 <br>
 
-<img src="/figures/covers/Fang Xu CR 2021.png" width=600>
+<img src="/figures/covers/FangXuCR2021.png" width=600>
 
 <br>
 
-<img src="/figures/covers/nature cell biology 2019.png" width=600>
+<img src="/figures/covers/naturecellbiology2019.png" width=600>
 
 <br>
 
-<img src="/figures/covers/wang et al cell research 2015.png" width=600>
+<img src="/figures/covers/wangetalcellresearch2015.png" width=600>
 
 <br>
 
-<img src="/figures/covers/ma et al cell research 2014.png" width=600>
+<img src="/figures/covers/maetalcellresearch2014.png" width=600>
 
 <br>
 
-<img src="/figures/covers/ma CR 2014.jpg" width=200>
+<img src="/figures/covers/maCR2014.jpg" width=200>
 
 <br>
 

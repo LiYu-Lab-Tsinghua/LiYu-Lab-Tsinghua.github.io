@@ -32,7 +32,7 @@ redirect_from:
 
 <div class="members-grid">
   <div class="member-card">
-    <img src="/figures/Li%20Yu.png" alt="Li Yu" class="member-photo">
+    <img src="/figures/LiYu.png" alt="Li Yu" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Li Yu &nbsp; 俞 立</h3>
       <p class="member-role">Principal Investigator</p>
@@ -65,7 +65,7 @@ redirect_from:
 
 <div class="members-grid">
   <div class="member-card">
-    <img src="/figures/members/Wanqing Du.jpg" alt="Wanqing Du" class="member-photo">
+    <img src="/figures/members/WanqingDu.jpg" alt="Wanqing Du" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Wanqing Du &nbsp; 杜万清</h3>
       <p class="member-role">Associate Investigator</p>
@@ -86,7 +86,7 @@ redirect_from:
 
 <div class="members-grid">
   <div class="member-card">
-    <img src="/figures/members/Di Lu.jpg" alt="Di Lu" class="member-photo">
+    <img src="/figures/members/DiLu.jpg" alt="Di Lu" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Di Lu &nbsp; 陆 娣</h3>
       <p class="member-role">Assistant Investigator</p>
@@ -97,7 +97,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Dachuan Zhang.jpg" alt="Dachuan Zhang" class="member-photo">
+    <img src="/figures/members/DachuanZhang.jpg" alt="Dachuan Zhang" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Dachuan Zhang &nbsp; 张大川</h3>
       <p class="member-role">Assistant Investigator</p>
@@ -108,7 +108,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Jinqiang Yu.jpg" alt="Jinqiang Yu" class="member-photo">
+    <img src="/figures/members/JinqiangYu.jpg" alt="Jinqiang Yu" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Jinqiang Yu &nbsp; 俞金强</h3>
       <p class="member-role">Assistant Investigator</p>
@@ -129,7 +129,7 @@ redirect_from:
 
 <div class="members-grid">
   <div class="member-card">
-    <img src="/figures/members/Yi Zheng.jpg" alt="Yi Zheng" class="member-photo">
+    <img src="/figures/members/YiZheng.jpg" alt="Yi Zheng" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Yi Zheng &nbsp; 郑 羿</h3>
       <p class="member-role">Postdoctoral Fellow</p>
@@ -140,7 +140,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Yuhan Xiang.jpg" alt="Yuhan Xiang" class="member-photo">
+    <img src="/figures/members/YuhanXiang.jpg" alt="Yuhan Xiang" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Yuhan Xiang &nbsp; 项雨涵</h3>
       <p class="member-role">Postdoctoral Fellow</p>
@@ -151,7 +151,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Jinzhao He.jpg" alt="Jinzhao He" class="member-photo">
+    <img src="/figures/members/JinzhaoHe.jpg" alt="Jinzhao He" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Jinzhao He &nbsp; 贺巾钊</h3>
       <p class="member-role">Postdoctoral Fellow</p>
@@ -162,7 +162,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Boqi Liu.jpg" alt="Boqi Liu" class="member-photo">
+    <img src="/figures/members/BoqiLiu.jpg" alt="Boqi Liu" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Boqi Liu &nbsp; 刘柏岐</h3>
       <p class="member-role">Postdoctoral Fellow</p>
@@ -173,7 +173,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Minghui Shi.jpg" alt="Minghui Shi" class="member-photo">
+    <img src="/figures/members/MinghuiShi.jpg" alt="Minghui Shi" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Minghui Shi &nbsp; 史明慧</h3>
       <p class="member-role">Postdoctoral Fellow</p>
@@ -184,7 +184,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-  <img src="/figures/members/Lin Shi.jpg" alt="Lin Shi" class="member-photo">
+  <img src="/figures/members/LinShi.jpg" alt="Lin Shi" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Lin Shi &nbsp; 石林</h3>
       <p class="member-role">Postdoctoral Fellow</p>
@@ -215,7 +215,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Dandan Huang.jpg" alt="Dandan Huang" class="member-photo">
+    <img src="/figures/members/DandanHuang.jpg" alt="Dandan Huang" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Dandan Huang &nbsp; 黄丹丹</h3>
       <p class="member-role">Postdoctoral Fellow</p>
@@ -226,7 +226,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-  <img src="/figures/members/Jiale Wei.jpg" alt="Jiale Wei" class="member-photo">
+  <img src="/figures/members/JialeWei.jpg" alt="Jiale Wei" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Jiale Wei &nbsp; 魏家乐</h3>
       <p class="member-role">Postdoctoral Fellow</p>
@@ -237,7 +237,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Dongju Wang.jpg" alt="Dongju Wang" class="member-photo">
+    <img src="/figures/members/DongjuWang.jpg" alt="Dongju Wang" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Dongju Wang &nbsp; 王东锔</h3>
       <p class="member-role">Postdoctoral Fellow</p>
@@ -258,7 +258,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Xuan Wang.jpg" alt="Xuan Wang" class="member-photo">
+    <img src="/figures/members/XuanWang.jpg" alt="Xuan Wang" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Xuan Wang &nbsp; 王 暄</h3>
       <p class="member-role">Postdoctoral Fellow</p>
@@ -309,7 +309,7 @@ redirect_from:
 
 <div class="members-grid">
   <div class="member-card">
-    <img src="/figures/members/Yining Chen.jpg" alt="Yining Chen" class="member-photo">
+    <img src="/figures/members/YiningChen.jpg" alt="Yining Chen" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Yining Chen &nbsp; 陈怡宁</h3>
       <p class="member-role">Ph.D. Student</p>
@@ -320,7 +320,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/RenXiang Xie.jpg" alt="Renxiang Xie" class="member-photo">
+    <img src="/figures/members/RenXiangXie.jpg" alt="Renxiang Xie" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Renxiang Xie &nbsp; 谢任翔</h3>
       <p class="member-role">Ph.D. Student</p>
@@ -331,7 +331,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Xulin Sun.jpg" alt="Xulin Sun" class="member-photo">
+    <img src="/figures/members/XulinSun.jpg" alt="Xulin Sun" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Xulin Sun &nbsp; 孙旭林</h3>
       <p class="member-role">Ph.D. Student</p>
@@ -342,7 +342,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Han Zhang.jpg" alt="Han Zhang" class="member-photo">
+    <img src="/figures/members/HanZhang.jpg" alt="Han Zhang" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Han Zhang &nbsp; 张 涵</h3>
       <p class="member-role">Ph.D. Student</p>
@@ -353,7 +353,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Haohao Jia.jpg" alt="Haohao Jia" class="member-photo">
+    <img src="/figures/members/HaohaoJia.jpg" alt="Haohao Jia" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Haohao Jia &nbsp; 贾皓昊</h3>
       <p class="member-role">Ph.D. Student</p>
@@ -364,7 +364,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Ruikang Zhao.jpg" alt="Ruikang Zhao" class="member-photo">
+    <img src="/figures/members/RuikangZhao.jpg" alt="Ruikang Zhao" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Ruikang Zhao &nbsp; 赵睿康</h3>
       <p class="member-role">Ph.D. Student</p>
@@ -375,7 +375,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Pushu Wang.jpg" alt="Pushu Wang" class="member-photo">
+    <img src="/figures/members/PushuWang.jpg" alt="Pushu Wang" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Pushu Wang &nbsp; 王谱术</h3>
       <p class="member-role">Ph.D. Student</p>
@@ -386,7 +386,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Yuheng Liu.jpg" alt="Yuheng Liu" class="member-photo">
+    <img src="/figures/members/YuhengLiu.jpg" alt="Yuheng Liu" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Yuheng Liu &nbsp; 刘宇恒</h3>
       <p class="member-role">Ph.D. Student</p>
@@ -407,7 +407,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-  <img src="/figures/members/Yuntian Yang.jpg" alt="Yuntian Yang" class="member-photo">
+  <img src="/figures/members/YuntianYang.jpg" alt="Yuntian Yang" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Yuntian Yang &nbsp; 杨云天</h3>
       <p class="member-role">Ph.D. Student</p>
@@ -428,7 +428,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Xiyuan Liu.jpg" alt="Siyuan Liu" class="member-photo">
+    <img src="/figures/members/XiyuanLiu.jpg" alt="Siyuan Liu" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Siyuan Liu &nbsp; 刘思远</h3>
       <p class="member-role">Ph.D. Student</p>
@@ -439,7 +439,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Wenkang Zhao.jpg" alt="Wenkang Zhao" class="member-photo">
+    <img src="/figures/members/WenkangZhao.jpg" alt="Wenkang Zhao" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Wenkang Zhao &nbsp; 赵文康</h3>
       <p class="member-role">Ph.D. Student</p>
@@ -470,7 +470,7 @@ redirect_from:
 
 <div class="members-grid">
   <div class="member-card">
-    <img src="/figures/members/Dong%20Jiang.png" alt="Dong Jiang" class="member-photo">
+    <img src="/figures/members/DongJiang.png" alt="Dong Jiang" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Dong Jiang &nbsp; 姜 东</h3>
       <p class="member-role">Principal Investigator, Zhejiang University</p>
@@ -478,7 +478,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Yuwei Huang.jpg" alt="Yuwei Huang" class="member-photo">
+    <img src="/figures/members/YuweiHuang.jpg" alt="Yuwei Huang" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Yuwei Huang &nbsp; 黄雨薇</h3>
       <p class="member-role">Alumni</p>
@@ -489,7 +489,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Haisha Liang.jpg" alt="Haisha Liang" class="member-photo">
+    <img src="/figures/members/HaishaLiang.jpg" alt="Haisha Liang" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Haisha Liang &nbsp; 梁海莎</h3>
       <p class="member-role">Alumni</p>
@@ -504,7 +504,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Yizheng Wang.jpg" alt="Yizheng Wang" class="member-photo">
+    <img src="/figures/members/YizhengWang.jpg" alt="Yizheng Wang" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Yizheng Wang &nbsp; 王懿峥</h3>
       <p class="member-role">Alumni</p>
@@ -512,7 +512,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Yueguang%20Rong.png" alt="Yueguang Rong" class="member-photo">
+    <img src="/figures/members/YueguangRong.png" alt="Yueguang Rong" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Yueguang Rong &nbsp; 荣岳光</h3>
       <p class="member-role">Professor, University of Macau</p>
@@ -520,7 +520,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Na%20Mi.png" alt="Na Mi" class="member-photo">
+    <img src="/figures/members/NaMi.png" alt="Na Mi" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Na Mi &nbsp; 米 娜</h3>
       <p class="member-role">Associate Professor, Xinjiang Medical University</p>
@@ -528,7 +528,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Cong%20Yi.png" alt="Cong Yi" class="member-photo">
+    <img src="/figures/members/CongYi.png" alt="Cong Yi" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Cong Yi &nbsp; 易 聪</h3>
       <p class="member-role">Principal Investigator, Zhejiang University</p>
@@ -536,7 +536,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Yanyang%20Wu.png" alt="Yanyang Wu" class="member-photo">
+    <img src="/figures/members/YanyangWu.png" alt="Yanyang Wu" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Yanyang Wu &nbsp; 吴艳阳</h3>
       <p class="member-role">Professor, Hunan Agricultural University</p>
@@ -544,7 +544,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Yang%20Chen.png" alt="Yang Chen" class="member-photo">
+    <img src="/figures/members/YangChen.png" alt="Yang Chen" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Yang Chen &nbsp; 陈 扬</h3>
       <p class="member-role">Associate Investigator, Peking University Health Science Center</p>
@@ -556,7 +556,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Junya%20Peng.png" alt="Junya Peng" class="member-photo">
+    <img src="/figures/members/JunyaPeng.png" alt="Junya Peng" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Junya Peng &nbsp; 彭俊雅</h3>
       <p class="member-role">Research Associate, Peking Union Medical College Hospital</p>
@@ -578,7 +578,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Jing%20Zhu.png" alt="Jing Zhu" class="member-photo">
+    <img src="/figures/members/JingZhu.png" alt="Jing Zhu" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Jing Zhu &nbsp; 朱 婧</h3>
       <p class="member-role">Research Associate, Shanghai Jiao Tong University</p>
@@ -607,7 +607,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Jingxiang%20Zheng.jpg" alt="Jingxiang Zheng" class="member-photo">
+    <img src="/figures/members/JingxiangZheng.jpg" alt="Jingxiang Zheng" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Jingxiang Zheng &nbsp; 郑竞翔</h3>
       <p class="member-role">Shanghai Yaoyi Technology Co., Ltd.</p>
@@ -615,7 +615,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Jingjing%20Tong.png" alt="Jingjing Tong" class="member-photo">
+    <img src="/figures/members/JingjingTong.png" alt="Jingjing Tong" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Jingjing Tong &nbsp; 仝晶晶</h3>
       <p class="member-role">Professor, Central China Normal University</p>
@@ -630,7 +630,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Liang%20Ma.png" alt="Liang Ma" class="member-photo">
+    <img src="/figures/members/LiangMa.png" alt="Liang Ma" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Liang Ma &nbsp; 马 亮</h3>
       <p class="member-role">Principal Investigator, Zhejiang University</p>
@@ -638,7 +638,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Meisheng%20Ma.jpg" alt="Meisheng Ma" class="member-photo">
+    <img src="/figures/members/MeishengMa.jpg" alt="Meisheng Ma" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Meisheng Ma &nbsp; 马梅生</h3>
       <p class="member-role">Professor, Huazhong University of Science and Technology</p>
@@ -653,7 +653,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Fang%20Xu.png" alt="Fang Xu" class="member-photo">
+    <img src="/figures/members/FangXu.png" alt="Fang Xu" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Fang Xu &nbsp; 徐 芳</h3>
       <p class="member-role">Professor, Guangzhou Medical University</p>
@@ -661,7 +661,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Daxiao%20Sun.png" alt="Daxiao Sun" class="member-photo">
+    <img src="/figures/members/DaxiaoSun.png" alt="Daxiao Sun" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Daxiao Sun &nbsp; 孙大晓</h3>
       <p class="member-role">Principal Investigator, Shenzhen Medical Academy of Research and Translation</p>
@@ -673,7 +673,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Danni Wu.jpg" alt="Danni Wu" class="member-photo">
+    <img src="/figures/members/DanniWu.jpg" alt="Danni Wu" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Danni Wu &nbsp; 伍丹妮</h3>
       <p class="member-role">Section Chief, Chongqing Science and Technology Bureau</p>
@@ -705,7 +705,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Rui%20Chen.png" alt="Rui Chen" class="member-photo">
+    <img src="/figures/members/RuiChen.png" alt="Rui Chen" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Rui Chen &nbsp; 陈 锐</h3>
       <p class="member-role">Professor, Wuhan University</p>
@@ -713,7 +713,7 @@ redirect_from:
   </div>
 
   <div class="member-card">
-    <img src="/figures/members/Mingli Zhu.jpg" alt="Mingli Zhu" class="member-photo">
+    <img src="/figures/members/MingliZhu.jpg" alt="Mingli Zhu" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Mingli Zhu &nbsp; 祝明莉</h3>
       <p class="member-role">Alumni</p>
