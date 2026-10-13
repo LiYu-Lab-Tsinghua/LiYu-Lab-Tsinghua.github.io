@@ -228,7 +228,7 @@ redirect_from:
   <div class="member-card">
   <img src="/figures/members/JialeWei.jpg" alt="Jiale Wei" class="member-photo">
     <div class="member-info">
-      <h3 class="member-name">Jiale Wei &nbsp; 魏家乐</h3>
+      <h3 class="member-name">Jiale Wei &nbsp; 魏佳乐</h3>
       <p class="member-role">Postdoctoral Fellow</p>
       <p class="member-email">
         <a href="mailto:weijiale0119@163.com">weijiale0119@163.com</a>
