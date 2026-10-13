@@ -733,3 +733,20 @@ redirect_from:
 </div>
 
 <br><br>
+
+---
+
+<h2 id="Lab manager"></h2>
+
+## Lab manager
+
+<div class="members-grid">
+  <div class="member-card">
+    <div class="member-info">
+      <h3 class="member-name">Chen Yu &nbsp; 俞琛</h3>
+      <p class="member-role">Lab manager</p>
+    </div>
+  </div>
+</div>
+
+<br><br>
