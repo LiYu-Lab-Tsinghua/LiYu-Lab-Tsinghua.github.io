@@ -186,7 +186,7 @@ redirect_from:
   <div class="member-card">
   <img src="/figures/members/LinShi.jpg" alt="Lin Shi" class="member-photo">
     <div class="member-info">
-      <h3 class="member-name">Lin Shi &nbsp; 石林</h3>
+      <h3 class="member-name">Lin Shi &nbsp; 石 林</h3>
       <p class="member-role">Postdoctoral Fellow</p>
       <p class="member-email">
         <a href="mailto:linshi@mail.tsinghua.edu.cn">linshi@mail.tsinghua.edu.cn</a>
@@ -249,7 +249,7 @@ redirect_from:
 
   <div class="member-card">
     <div class="member-info">
-      <h3 class="member-name">Ya Yan &nbsp; 严娅</h3>
+      <h3 class="member-name">Ya Yan &nbsp; 严 娅</h3>
       <p class="member-role">Postdoctoral Fellow</p>
       <p class="member-email">
         <a href="mailto:yanhs2019@163.com">yanhs2019@163.com</a>
@@ -725,11 +725,49 @@ redirect_from:
   </div>
 
   <div class="member-card">
+    <img src="/figures/members/HaifengJiao.png" alt="Haifeng Jiao" class="member-photo">
+    <div class="member-info">
+      <h3 class="member-name">Haifeng Jiao &nbsp; 焦海峰</h3>
+      <p class="member-role">Assistant Investigators, Fudan University</p>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <img src="/figures/members/ShunbangYu.jpg" alt="Shunbang Yu" class="member-photo">
+    <div class="member-info">
+      <h3 class="member-name">Shunbang Yu &nbsp; 余舜邦</h3>
+      <p class="member-role">Alumni</p>
+    </div>
+  </div>
+
+  <div class="member-card">
     <div class="member-info">
       <h3 class="member-name">Ying Li &nbsp; 李 英</h3>
       <p class="member-role">Alumni</p>
     </div>
   </div>
+
+  <div class="member-card">
+    <div class="member-info">
+      <h3 class="member-name">Yiyang Han &nbsp; 韩依杨</h3>
+      <p class="member-role">Alumni</p>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <div class="member-info">
+      <h3 class="member-name">Qiushi Zhong &nbsp; 钟丘实</h3>
+      <p class="member-role">Alumni</p>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <div class="member-info">
+      <h3 class="member-name">Lilian Chen &nbsp; 陈丽莲</h3>
+      <p class="member-role">Alumni</p>
+    </div>
+  </div>
+
 </div>
 
 <br><br>
