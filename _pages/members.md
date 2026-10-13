@@ -645,18 +645,3 @@ redirect_from:
 </div>
 
 <br><br>
-
----
-
-<h2 id="LM"></h2>
-
-## Lab Manager
-
-<div class="members-grid">
-  <div class="member-card">
-    <div class="member-info">
-      <h3 class="member-name">Ting Peng &nbsp; 彭 婷</h3>
-      <p class="member-role">Lab Manager</p>
-    </div>
-  </div>
-</div>
