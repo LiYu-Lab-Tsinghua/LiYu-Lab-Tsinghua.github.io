@@ -472,7 +472,7 @@ redirect_from:
   <div class="member-card">
     <div class="member-info">
       <h3 class="member-name">Dong Jiang &nbsp; 姜 东</h3>
-      <p class="member-role">Alumni</p>
+      <p class="member-role">Investigator, Zhejiang University</p>
     </div>
   </div>
 
@@ -513,28 +513,28 @@ redirect_from:
   <div class="member-card">
     <div class="member-info">
       <h3 class="member-name">Yueguang Rong &nbsp; 荣岳光</h3>
-      <p class="member-role">PI, School of Basic Medicine, Tongji Medical College, HUST</p>
+      <p class="member-role">Professor, University of Macau</p>
     </div>
   </div>
 
   <div class="member-card">
     <div class="member-info">
       <h3 class="member-name">Na Mi &nbsp; 米 娜</h3>
-      <p class="member-role">PI, Xinjiang Medical University</p>
+      <p class="member-role">Associate Professor, Xinjiang Medical University</p>
     </div>
   </div>
 
   <div class="member-card">
     <div class="member-info">
       <h3 class="member-name">Cong Yi &nbsp; 易 聪</h3>
-      <p class="member-role">PI, Zhejiang University School of Medicine</p>
+      <p class="member-role">Investigator, Zhejiang University</p>
     </div>
   </div>
 
   <div class="member-card">
     <div class="member-info">
       <h3 class="member-name">Yanyang Wu &nbsp; 吴艳阳</h3>
-      <p class="member-role">PI, Hunan Agricultural University</p>
+      <p class="member-role">Professor, Hunan Agricultural University</p>
     </div>
   </div>
 
@@ -542,7 +542,7 @@ redirect_from:
     <img src="/figures/members/Yang Chen.jpg" alt="Yang Chen" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Yang Chen &nbsp; 陈 扬</h3>
-      <p class="member-role">PI, Peking University School of Basic Medical Sciences</p>
+      <p class="member-role">Associate Investigator, Peking University Health Science Center</p>
       <p class="member-email">
         <strong>Research:</strong> Molecular mechanism and physiological function of extracellular vesicles<br>
         <a href="mailto:chenyang1816185048@bjmu.edu.cn">chenyang1816185048@bjmu.edu.cn</a>
@@ -602,14 +602,14 @@ redirect_from:
   <div class="member-card">
     <div class="member-info">
       <h3 class="member-name">Jingxiang Zheng &nbsp; 郑竞翔</h3>
-      <p class="member-role">WuXi AppTec</p>
+      <p class="member-role">Shanghai Yaoyi Technology Co., Ltd.</p>
     </div>
   </div>
 
   <div class="member-card">
     <div class="member-info">
       <h3 class="member-name">Jingjing Tong &nbsp; 仝晶晶</h3>
-      <p class="member-role">PI, Central China Normal University</p>
+      <p class="member-role">Professor, Central China Normal University</p>
     </div>
   </div>
 
@@ -623,14 +623,14 @@ redirect_from:
   <div class="member-card">
     <div class="member-info">
       <h3 class="member-name">Liang Ma &nbsp; 马 亮</h3>
-      <p class="member-role">Postdoc, Randy Schekman Lab, UCB</p>
+      <p class="member-role">Investigator, Zhejiang University</p>
     </div>
   </div>
 
   <div class="member-card">
     <div class="member-info">
       <h3 class="member-name">Meisheng Ma &nbsp; 马梅生</h3>
-      <p class="member-role">Alumni</p>
+      <p class="member-role">Professor, Huazhong University of Science and Technology</p>
     </div>
   </div>
 
@@ -644,7 +644,7 @@ redirect_from:
   <div class="member-card">
     <div class="member-info">
       <h3 class="member-name">Fang Xu &nbsp; 徐 芳</h3>
-      <p class="member-role">PI, Guangzhou Medical University</p>
+      <p class="member-role">Professor, Guangzhou Medical University</p>
     </div>
   </div>
 
@@ -652,7 +652,7 @@ redirect_from:
     <img src="/figures/members/Daxiao Sun.jpeg" alt="Daxiao Sun" class="member-photo">
     <div class="member-info">
       <h3 class="member-name">Daxiao Sun &nbsp; 孙大晓</h3>
-      <p class="member-role">Postdoc, MPI-CBG & PoL, TU Dresden</p>
+      <p class="member-role">Investigator, Shenzhen Medical Academy of Research and Translation</p>
       <p class="member-email">
         <strong>Research:</strong> Phase separation on 2D surfaces, Assembly of tight junctions, Cell polarity, p62-mediated autophagy<br>
         <a href="mailto:dsun@mpi-cbg.de">dsun@mpi-cbg.de</a>
@@ -695,7 +695,7 @@ redirect_from:
   <div class="member-card">
     <div class="member-info">
       <h3 class="member-name">Rui Chen &nbsp; 陈 锐</h3>
-      <p class="member-role">Alumni</p>
+      <p class="member-role">Professor, Wuhan University</p>
     </div>
   </div>
 
