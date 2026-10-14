@@ -2,6 +2,7 @@
 title: "Spring outing"
 excerpt: "2021-4-27 &nbsp;&nbsp; Miyun, Beijing<br/><br/><img src='/figures/news/1966b85eba03608f91114355f573cfb.jpg' width=500>"
 collection: news
+date: 2021-04-27
 ---
 
 <br>

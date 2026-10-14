@@ -2,6 +2,7 @@
 title: "Finally, we have our lab website!"
 excerpt: "2020-9-18"
 collection: news
+date: 2020-09-18
 ---
 
 <br>
