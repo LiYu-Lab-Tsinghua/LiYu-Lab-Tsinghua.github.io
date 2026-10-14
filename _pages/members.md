@@ -647,9 +647,10 @@ redirect_from:
   </div>
 
   <div class="member-card">
+    <img src="/figures/members/RuiChen.png" alt="Rui Chen" class="member-photo">
     <div class="member-info">
-      <h3 class="member-name">Shaojin Zhang &nbsp; 张绍进</h3>
-      <p class="member-role">Postdoc, East China University of Science and Technology</p>
+      <h3 class="member-name">Rui Chen &nbsp; 陈 锐</h3>
+      <p class="member-role">Professor, Wuhan University</p>
     </div>
   </div>
 
@@ -684,32 +685,12 @@ redirect_from:
     </div>
   </div>
 
-  <div class="member-card">
-    <div class="member-info">
-      <h3 class="member-name">Yitong Cui &nbsp; 崔依同</h3>
-      <p class="member-role">NTD IP ATTORNEYS</p>
-    </div>
-  </div>
 
   <div class="member-card">
+    <img src="/figures/members/CuifangZhang.png" alt="Cuifang Zhang" class="member-photo">
     <div class="member-info">
-      <h3 class="member-name">Puzhong Lu &nbsp;&nbsp; 卢普忠</h3>
-      <p class="member-role">Civil Servant, Xinyang, Henan</p>
-    </div>
-  </div>
-
-  <div class="member-card">
-    <div class="member-info">
-      <h3 class="member-name">Xiaoxin Zhao &nbsp; 赵晓鑫</h3>
-      <p class="member-role">Teacher, The High School Affiliated to Renmin University of China</p>
-    </div>
-  </div>
-
-  <div class="member-card">
-    <img src="/figures/members/RuiChen.png" alt="Rui Chen" class="member-photo">
-    <div class="member-info">
-      <h3 class="member-name">Rui Chen &nbsp; 陈 锐</h3>
-      <p class="member-role">Professor, Wuhan University</p>
+      <h3 class="member-name">Cuifang Zhang &nbsp; 张翠芳</h3>
+      <p class="member-role">Principal Investigator, Xiamen Cardiovascular Hospital Xiamen University</p>
     </div>
   </div>
 
@@ -742,6 +723,20 @@ redirect_from:
 
   <div class="member-card">
     <div class="member-info">
+      <h3 class="member-name">Puzhong Lu &nbsp;&nbsp; 卢普忠</h3>
+      <p class="member-role">Civil Servant, Xinyang, Henan</p>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <div class="member-info">
+      <h3 class="member-name">Xiaoxin Zhao &nbsp; 赵晓鑫</h3>
+      <p class="member-role">Teacher, The High School Affiliated to Renmin University of China</p>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <div class="member-info">
       <h3 class="member-name">Ying Li &nbsp; 李 英</h3>
       <p class="member-role">Alumni</p>
     </div>
@@ -765,6 +760,20 @@ redirect_from:
     <div class="member-info">
       <h3 class="member-name">Lilian Chen &nbsp; 陈丽莲</h3>
       <p class="member-role">Alumni</p>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <div class="member-info">
+      <h3 class="member-name">Yitong Cui &nbsp; 崔依同</h3>
+      <p class="member-role">Alumni</p>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <div class="member-info">
+      <h3 class="member-name">Shaojin Zhang &nbsp; 张绍进</h3>
+      <p class="member-role">Postdoc, East China University of Science and Technology</p>
     </div>
   </div>
 
